@@ -95,8 +95,8 @@ url_string = (f"classification_id=23&device_identifier=web"
               f"&epg_ends_at_timestamp={days[-1].timestamp()}"
               f"&epg_starts_at={days[0].strftime('%Y-%m-%dT%H:%M:%S.000Z')}"
               f"&epg_starts_at_timestamp={days[0].timestamp()}"
-              f"&locale=en&market_code=fr"
-              f"&per_page=250")
+              f"&locale=en&market_code=fr")
+#              f"&per_page=250")
 
 url = "https://gizmo.rakuten.tv/v3/live_channels?" + url_string.replace(":", "%3A")
 print("Grabbing data")
