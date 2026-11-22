@@ -111,42 +111,6 @@
     <display-name lang="fr">Pingu</display-name>
     <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/d162935c-4574-43e8-83be-a93f9f15227e.png"></icon>
   </channel>
-  <programme channel="adrenaline-spica-life-fra" start="20261122150000 +0000" stop="20261122160000 +0000">
-    <title lang="fr">Adrenaline Spica Life</title>
-    <sub-title lang="fr"></sub-title>
-    <desc lang="fr"></desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="adrenaline-spica-life-fra" start="20261122160000 +0000" stop="20261122170000 +0000">
-    <title lang="fr">Adrenaline Spica Life</title>
-    <sub-title lang="fr"></sub-title>
-    <desc lang="fr"></desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="adrenaline-spica-life-fra" start="20261122170000 +0000" stop="20261122180000 +0000">
-    <title lang="fr">Adrenaline Spica Life</title>
-    <sub-title lang="fr"></sub-title>
-    <desc lang="fr"></desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="adrenaline-spica-life-fra" start="20261122180000 +0000" stop="20261122190000 +0000">
-    <title lang="fr">Adrenaline Spica Life</title>
-    <sub-title lang="fr"></sub-title>
-    <desc lang="fr"></desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="adrenaline-spica-life-fra" start="20261122190000 +0000" stop="20261122200000 +0000">
-    <title lang="fr">Adrenaline Spica Life</title>
-    <sub-title lang="fr"></sub-title>
-    <desc lang="fr"></desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="adrenaline-spica-life-fra" start="20261122200000 +0000" stop="20261122210000 +0000">
-    <title lang="fr">Adrenaline Spica Life</title>
-    <sub-title lang="fr"></sub-title>
-    <desc lang="fr"></desc>
-    <category lang="fr">documentaire</category>
-  </programme>
   <programme channel="adrenaline-spica-life-fra" start="20261122210000 +0000" stop="20261122220000 +0000">
     <title lang="fr">Adrenaline Spica Life</title>
     <sub-title lang="fr"></sub-title>
@@ -452,66 +416,6 @@
     <sub-title lang="fr"></sub-title>
     <desc lang="fr"></desc>
     <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="africanews-fra" start="20261122150000 +0000" stop="20261122153000 +0000">
-    <title lang="fr">Africanews</title>
-    <desc lang="fr">Africanews, est la seule chaine d’information indépendante et internationale offrant une perspective Africaine. Africanews is de enige onafhankelijke nationale en internationale nieuwszender vanuit Afrikaans perspectief.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="africanews-fra" start="20261122153000 +0000" stop="20261122160000 +0000">
-    <title lang="fr">Africanews</title>
-    <desc lang="fr">Africanews, est la seule chaine d’information indépendante et internationale offrant une perspective Africaine. Africanews is de enige onafhankelijke nationale en internationale nieuwszender vanuit Afrikaans perspectief.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="africanews-fra" start="20261122160000 +0000" stop="20261122163000 +0000">
-    <title lang="fr">Africanews</title>
-    <desc lang="fr">Africanews, est la seule chaine d’information indépendante et internationale offrant une perspective Africaine. Africanews is de enige onafhankelijke nationale en internationale nieuwszender vanuit Afrikaans perspectief.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="africanews-fra" start="20261122163000 +0000" stop="20261122170000 +0000">
-    <title lang="fr">Africanews</title>
-    <desc lang="fr">Africanews, est la seule chaine d’information indépendante et internationale offrant une perspective Africaine. Africanews is de enige onafhankelijke nationale en internationale nieuwszender vanuit Afrikaans perspectief.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="africanews-fra" start="20261122170000 +0000" stop="20261122173000 +0000">
-    <title lang="fr">Africanews</title>
-    <desc lang="fr">Africanews, est la seule chaine d’information indépendante et internationale offrant une perspective Africaine. Africanews is de enige onafhankelijke nationale en internationale nieuwszender vanuit Afrikaans perspectief.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="africanews-fra" start="20261122173000 +0000" stop="20261122180000 +0000">
-    <title lang="fr">Africanews</title>
-    <desc lang="fr">Africanews, est la seule chaine d’information indépendante et internationale offrant une perspective Africaine. Africanews is de enige onafhankelijke nationale en internationale nieuwszender vanuit Afrikaans perspectief.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="africanews-fra" start="20261122180000 +0000" stop="20261122183000 +0000">
-    <title lang="fr">Africanews</title>
-    <desc lang="fr">Africanews, est la seule chaine d’information indépendante et internationale offrant une perspective Africaine. Africanews is de enige onafhankelijke nationale en internationale nieuwszender vanuit Afrikaans perspectief.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="africanews-fra" start="20261122183000 +0000" stop="20261122190000 +0000">
-    <title lang="fr">Africanews</title>
-    <desc lang="fr">Africanews, est la seule chaine d’information indépendante et internationale offrant une perspective Africaine. Africanews is de enige onafhankelijke nationale en internationale nieuwszender vanuit Afrikaans perspectief.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="africanews-fra" start="20261122190000 +0000" stop="20261122193000 +0000">
-    <title lang="fr">Africanews</title>
-    <desc lang="fr">Africanews, est la seule chaine d’information indépendante et internationale offrant une perspective Africaine. Africanews is de enige onafhankelijke nationale en internationale nieuwszender vanuit Afrikaans perspectief.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="africanews-fra" start="20261122193000 +0000" stop="20261122200000 +0000">
-    <title lang="fr">Africanews</title>
-    <desc lang="fr">Africanews, est la seule chaine d’information indépendante et internationale offrant une perspective Africaine. Africanews is de enige onafhankelijke nationale en internationale nieuwszender vanuit Afrikaans perspectief.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="africanews-fra" start="20261122200000 +0000" stop="20261122203000 +0000">
-    <title lang="fr">Africanews</title>
-    <desc lang="fr">Africanews, est la seule chaine d’information indépendante et internationale offrant une perspective Africaine. Africanews is de enige onafhankelijke nationale en internationale nieuwszender vanuit Afrikaans perspectief.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="africanews-fra" start="20261122203000 +0000" stop="20261122210000 +0000">
-    <title lang="fr">Africanews</title>
-    <desc lang="fr">Africanews, est la seule chaine d’information indépendante et internationale offrant une perspective Africaine. Africanews is de enige onafhankelijke nationale en internationale nieuwszender vanuit Afrikaans perspectief.</desc>
-    <category lang="fr">Actualités</category>
   </programme>
   <programme channel="africanews-fra" start="20261122210000 +0000" stop="20261122213000 +0000">
     <title lang="fr">Africanews</title>
@@ -1028,21 +932,6 @@
     <desc lang="fr">Africanews, est la seule chaine d’information indépendante et internationale offrant une perspective Africaine. Africanews is de enige onafhankelijke nationale en internationale nieuwszender vanuit Afrikaans perspectief.</desc>
     <category lang="fr">Actualités</category>
   </programme>
-  <programme channel="bloomberg-originals-new" start="20261122140005 +0000" stop="20261122160005 +0000">
-    <title lang="fr">Bloomberg Originals</title>
-    <desc lang="fr">Bloomberg Originals</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="bloomberg-originals-new" start="20261122160005 +0000" stop="20261122180005 +0000">
-    <title lang="fr">Bloomberg Originals</title>
-    <desc lang="fr">Bloomberg Originals</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="bloomberg-originals-new" start="20261122180005 +0000" stop="20261122200005 +0000">
-    <title lang="fr">Bloomberg Originals</title>
-    <desc lang="fr">Bloomberg Originals</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
   <programme channel="bloomberg-originals-new" start="20261122200005 +0000" stop="20261122220005 +0000">
     <title lang="fr">Bloomberg Originals</title>
     <desc lang="fr">Bloomberg Originals</desc>
@@ -1172,30 +1061,6 @@
     <title lang="fr">Bloomberg Originals</title>
     <desc lang="fr">Bloomberg Originals</desc>
     <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="bloomberg-tv-plus" start="20261122150004 +0000" stop="20261122160004 +0000">
-    <title lang="fr">Bloomberg TV+</title>
-    <desc lang="fr">Bloomberg TV+ UHD delivers Live 24x7 global business and markets news, data, analysis, and stories from Bloomberg News and Businessweek – available in a 4K ultra high definition (UHD) viewing experience.</desc>
-  </programme>
-  <programme channel="bloomberg-tv-plus" start="20261122160004 +0000" stop="20261122170004 +0000">
-    <title lang="fr">Bloomberg TV+</title>
-    <desc lang="fr">Bloomberg TV+ UHD delivers Live 24x7 global business and markets news, data, analysis, and stories from Bloomberg News and Businessweek – available in a 4K ultra high definition (UHD) viewing experience.</desc>
-  </programme>
-  <programme channel="bloomberg-tv-plus" start="20261122170004 +0000" stop="20261122180004 +0000">
-    <title lang="fr">Bloomberg TV+</title>
-    <desc lang="fr">Bloomberg TV+ UHD delivers Live 24x7 global business and markets news, data, analysis, and stories from Bloomberg News and Businessweek – available in a 4K ultra high definition (UHD) viewing experience.</desc>
-  </programme>
-  <programme channel="bloomberg-tv-plus" start="20261122180004 +0000" stop="20261122190004 +0000">
-    <title lang="fr">Bloomberg TV+</title>
-    <desc lang="fr">Bloomberg TV+ UHD delivers Live 24x7 global business and markets news, data, analysis, and stories from Bloomberg News and Businessweek – available in a 4K ultra high definition (UHD) viewing experience.</desc>
-  </programme>
-  <programme channel="bloomberg-tv-plus" start="20261122190004 +0000" stop="20261122200004 +0000">
-    <title lang="fr">Bloomberg TV+</title>
-    <desc lang="fr">Bloomberg TV+ UHD delivers Live 24x7 global business and markets news, data, analysis, and stories from Bloomberg News and Businessweek – available in a 4K ultra high definition (UHD) viewing experience.</desc>
-  </programme>
-  <programme channel="bloomberg-tv-plus" start="20261122200004 +0000" stop="20261122210004 +0000">
-    <title lang="fr">Bloomberg TV+</title>
-    <desc lang="fr">Bloomberg TV+ UHD delivers Live 24x7 global business and markets news, data, analysis, and stories from Bloomberg News and Businessweek – available in a 4K ultra high definition (UHD) viewing experience.</desc>
   </programme>
   <programme channel="bloomberg-tv-plus" start="20261122210004 +0000" stop="20261122220004 +0000">
     <title lang="fr">Bloomberg TV+</title>
@@ -1400,78 +1265,6 @@
   <programme channel="bloomberg-tv-plus" start="20261124230004 +0000" stop="20261124235958 +0000">
     <title lang="fr">Bloomberg TV+</title>
     <desc lang="fr">Bloomberg TV+ UHD delivers Live 24x7 global business and markets news, data, analysis, and stories from Bloomberg News and Businessweek – available in a 4K ultra high definition (UHD) viewing experience.</desc>
-  </programme>
-  <programme channel="c-est-pas-sorcier" start="20261122143255 +0000" stop="20261122150458 +0000">
-    <title lang="fr">C'est Pas Sorcier</title>
-    <sub-title lang="fr">S03 : E216 VOL EN IMPESANTEUR</sub-title>
-    <desc lang="fr">Dans l’univers, tous les corps s’attirent : c’est la gravitation. Pourquoi ne pèse-t-on plus rien quand on est en impesanteur ? Les spationautes et leur vaisseau chutent sans cesse autour de la Terre. Pourquoi ne s’écrasent-ils pas ? Pourquoi est-on désorienté et a-t-on du mal à contrôler nos mouvements lorsque l’on est en impesanteur ? Fred a suivi un petit entraînement pour devenir astronaute. L’occasion pour Jamy de nous offrir quelques éclaircissements sur l’impesanteur et de nous présenter l’ISS, la future station spatiale internationale qui, d’ici 2006, devrait avoir remplacé la défunte MIR.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="c-est-pas-sorcier" start="20261122150458 +0000" stop="20261122153558 +0000">
-    <title lang="fr">C'est Pas Sorcier</title>
-    <sub-title lang="fr">S03 : E213 ATTENTION CA GLACE</sub-title>
-    <desc lang="fr">Pourquoi nos mains restent-elles collées à la glace quand on la touche ? Pourquoi les glaçons flottent-ils dans l'eau ? Et quand on met un glaçon dans l'eau, c'est le glaçon qui refroidit l'eau ou l'eau qui réchauffe le glaçon ? Les sorciers nous expliquent tout sur la glace. Nous suivons Fred dans l'ascension périlleuse d'une cascade de glace, tandis que Jamy nous donne une petite leçon de chimie pratique et rigolote autour de molécules d'eau qui dansent, se rapprochent ou se séparent...</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="c-est-pas-sorcier" start="20261122153558 +0000" stop="20261122160608 +0000">
-    <title lang="fr">C'est Pas Sorcier</title>
-    <sub-title lang="fr">S02 : E408 LUMIERES DE LA VILLE : Les sorciers nous éclairent</sub-title>
-    <desc lang="fr">Jusqu’au XIXème siècle, c’est l’éclairage au gaz qui domine, même s’il est parfois remplacé par les lampes à pétrole. En 1881 c’est la révolution : Thomas Edison présente au monde la lampe à incandescence. Cet éclairage électrique, plus puissant et moins dangereux que le gaz, prend vite le pas sur les autres. En quelques dizaines d’années, Paris et toute la France succombent aux charmes de la fée électricité. Fred et Jamy reviennent sur les origines de cette invention qui a totalement révolutionné notre environnement urbain et notre vie.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="c-est-pas-sorcier" start="20261122160608 +0000" stop="20261122163618 +0000">
-    <title lang="fr">C'est Pas Sorcier</title>
-    <sub-title lang="fr">S02 : E407 ORAGES : Les sorciers ont le coup de foudre</sub-title>
-    <desc lang="fr">Chaque année en France, les orages font d’importants dégâts et environ une dizaine de personnes sont victimes de la foudre. Pour comprendre ce qui provoque ces colères du ciel, l’équipe de C’est pas sorcier part traquer les cumulonimbus et les éclairs en compagnie d’un chasseur d’orage.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="c-est-pas-sorcier" start="20261122163618 +0000" stop="20261122170622 +0000">
-    <title lang="fr">C'est Pas Sorcier</title>
-    <sub-title lang="fr">S02 : E414 FRANCHIR LES ALPES : le plus grand tunnel du monde</sub-title>
-    <desc lang="fr">Chaque année, 80 Millions de voyageurs et 130 Millions de tonnes de marchandises transitent à travers l’arc alpin. Cette barrière naturelle, à la frontière de 4 pays - la France, l’Italie, la Suisse et l’Autriche- est l’un des plus grands carrefours d'Europe. Fred et Jamy nous emmènent visiter le chantier du Saint Gothard, un tunnel de 57 km de long, creusé entre le Nord et le Sud de la Suisse. Il devrait être achevé en 2017 et sera alors le plus long du monde. Avec l'élargissement de l'Union européenne, le trafic de marchandises y est en constante augmentation et la pollution aussi. Pour désengorger les routes et les voies ferrées, de nouveaux tunnels ferroviaires sont en construction ou...</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="c-est-pas-sorcier" start="20261122170622 +0000" stop="20261122173637 +0000">
-    <title lang="fr">C'est Pas Sorcier</title>
-    <sub-title lang="fr">S02 : E413 POLYNESIE : bienvenue au Paradis !</sub-title>
-    <desc lang="fr">Situées à 18 000 kilomètres de Paris, les 118 îles de la Polynésie sont des petits bouts de France nichés au coeur de l'océan Pacifique. 118 petits paradis qui ne se limitent pas aux belles plages désertes et aux vahinés ondulantes...Avec leurs volcans surgis de l'océan et leurs atolls aux eaux bleu turquoise, leur histoire géologique est passionnante ! Surtout, elles abritent une culture trop mal connue : celle des maohis, qui, pour coloniser ces cailloux minuscules, traversèrent le plus grand océan de la planète à bord de leurs étonnantes pirogues. Fred et Jamy sont partis explorer ces îles du bout du monde. Mission : Gigantesques volcans qui surgissent de l'océan à leur naissance, les...</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="c-est-pas-sorcier" start="20261122173637 +0000" stop="20261122180636 +0000">
-    <title lang="fr">C'est Pas Sorcier</title>
-    <sub-title lang="fr">S01 : E544 Les entrailles d'un volcan</sub-title>
-    <desc lang="fr">Comment l’île de la Réunion est-elle sortie de l’Océan Indien il y a 3 millions d’années ? Et comment la végétation qui la recouvre est-elle ensuite parvenue jusque sur ses rivages ? Fred est parti explorer cette île et son volcan, le Piton de la Fournaise, l’un des plus actifs au monde… Jusque dans ses entrailles.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="c-est-pas-sorcier" start="20261122180636 +0000" stop="20261122183633 +0000">
-    <title lang="fr">C'est Pas Sorcier</title>
-    <sub-title lang="fr">S01 : E541 Pourquoi les requins attaquent?</sub-title>
-    <desc lang="fr">On recense, chaque année dans le monde, entre 60 et 80 attaques de requins. Ces attaques sont-elles de plus en plus nombreuses ? Sont-elles liées à un changement de comportement des requins ou provoquées par les activités humaines ? Fred part à La Réunion, à la rencontre d’une équipe de scientifiques qui mène l’enquête depuis la série d’attaques inhabituelles qui a eu lieu en 2011</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="c-est-pas-sorcier" start="20261122183633 +0000" stop="20261122190630 +0000">
-    <title lang="fr">C'est Pas Sorcier</title>
-    <sub-title lang="fr">S01 : E543 Les Moustiques : dangereux envahisseurs !</sub-title>
-    <desc lang="fr">Chaque été, ils nous embêtent : ça pique, ça gratte… Ne nous plaignons pas, car les moustiques pourraient se révéler bien plus dangereux ! A La Réunion, ils ont ainsi provoqué une grosse épidémie de Chikungunya. Et certaines de ces espèces tropicales vectrices de maladies débarquent aujourd’hui dans les pays tempérés, dont l’Europe…</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="c-est-pas-sorcier" start="20261122190630 +0000" stop="20261122193629 +0000">
-    <title lang="fr">C'est Pas Sorcier</title>
-    <sub-title lang="fr">S01 : E542 Le grand voyage des tortues de mer</sub-title>
-    <desc lang="fr">Les tortues marines, qui vivent dans les eaux tropicales et subtropicales de la planète, sont toutes des espèces menacées. A La Réunion, où l’on peut croiser 5 des 7 espèces existant dans le monde, on s’efforce de les protéger et de les soigner. Et elles reviennent depuis peu au large des côtes et sur les plages !</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="c-est-pas-sorcier" start="20261122193629 +0000" stop="20261122200626 +0000">
-    <title lang="fr">C'est Pas Sorcier</title>
-    <sub-title lang="fr">S01 : E545 La plage et ses dangers</sub-title>
-    <desc lang="fr">Si le soleil et les vagues font chaque été la joie des baigneurs, le bord de mer n’est pas sans dangers. Durant la période estivale 2012, 176 personnes sont mortes noyées sur le littoral français. Sabine et Jamy vont suivre le quotidien des nageurs sauveteurs de la SNSM, la société nationale de sauvetage en mer qui surveille près d’un tiers des plages françaises. L’an dernier, ils ont secourus plus de 1500 personnes.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="c-est-pas-sorcier" start="20261122200626 +0000" stop="20261122203626 +0000">
-    <title lang="fr">C'est Pas Sorcier</title>
-    <sub-title lang="fr">S01 : E548 Les trésors des salins du midi</sub-title>
-    <desc lang="fr">Sabine et Jamy mettent le cap sur Aigues-Mortes, au Sud-Ouest de la Camargue. Depuis l’antiquité l’homme y aménage d’immenses lagunes pour cultiver le sel de mer. Aujourd’hui, ces marais salants s’étendent sur 10 000 hectares et produisent 250 000 tonnes par an. Mais derrière cette imposante activité économique se cache aussi un lieu de vie exceptionnel pour de nombreuses espèces, dont le majestueux flamant rose.</desc>
-    <category lang="fr">documentaire</category>
   </programme>
   <programme channel="c-est-pas-sorcier" start="20261122203626 +0000" stop="20261122210621 +0000">
     <title lang="fr">C'est Pas Sorcier</title>
@@ -2079,51 +1872,6 @@
     <desc lang="fr">Jamy a transformé le camion en atelier d'artiste : il veut devenir peintre ! Pour aider son compagnon de route, Fred part à la rencontre de spécialistes qui nous dévoilent de petites choses essentielles sur les couleurs, les supports, les techniques de perspectives et les jeux de lumière... Pourquoi prépare-t-on les toiles ? Quels sont les pigments et les matériaux utilisés dans la fabrication de la peinture ? Quelles sont les différences entre l'aquarelle et la peinture à l'huile ? Comment peut-on donner un effet de profondeur et de relief à son tableau ?</desc>
     <category lang="fr">documentaire</category>
   </programme>
-  <programme channel="cgtn" start="20261122143001 +0000" stop="20261122150001 +0000">
-    <title lang="fr">The World Today</title>
-    <desc lang="fr">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="fr">Asian</category>
-  </programme>
-  <programme channel="cgtn" start="20261122150001 +0000" stop="20261122153001 +0000">
-    <title lang="fr">Inheritors</title>
-    <desc lang="fr">Inheritors is a multi-media product from CGTN that shines a light on China’s rich Intangible Cultural Heritage. Each 30-minute TV edition is hosted by a long-term expatriate in China who has a unique understanding of the country’s culture. He or she will introduce viewers to people who are dedicating their lives to its protection, inheritance, innovation, development and promotion.</desc>
-    <category lang="fr">Asian</category>
-  </programme>
-  <programme channel="cgtn" start="20261122153001 +0000" stop="20261122160001 +0000">
-    <title lang="fr">The World Today</title>
-    <desc lang="fr">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="fr">Asian</category>
-  </programme>
-  <programme channel="cgtn" start="20261122160001 +0000" stop="20261122163001 +0000">
-    <title lang="fr">The Agenda</title>
-    <desc lang="fr">A weekly talk-show looking beyond the headlines and “accepted wisdom” to find the real story. Hosted by award-winning journalist and presenter Stephen Cole, The Agenda  quite simply sets The Agenda . You won’t find the same-old talking heads recycling platitudes; instead thought-provoking guests to debate and explore key issues of today’s world. Using virtual reality graphics to bring subjects to life, Stephen will navigate through subjects ranging from “Prove That Climate Change Exists”  to “Who Will Win the Race to Space”. Opposing views will be given opportunity to flourish and develop into a meaningful conversation.</desc>
-    <category lang="fr">Asian</category>
-  </programme>
-  <programme channel="cgtn" start="20261122163001 +0000" stop="20261122170001 +0000">
-    <title lang="fr">Africa Live</title>
-    <desc lang="fr">Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.</desc>
-    <category lang="fr">Asian</category>
-  </programme>
-  <programme channel="cgtn" start="20261122170001 +0000" stop="20261122173001 +0000">
-    <title lang="fr">Talk Africa</title>
-    <desc lang="fr">Talk Africa is a weekly discussion show that brings the most influential voices in Africa to the world.</desc>
-    <category lang="fr">Asian</category>
-  </programme>
-  <programme channel="cgtn" start="20261122173001 +0000" stop="20261122193001 +0000">
-    <title lang="fr">Sports Scene</title>
-    <desc lang="fr">Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.</desc>
-    <category lang="fr">Asian</category>
-  </programme>
-  <programme channel="cgtn" start="20261122193001 +0000" stop="20261122200001 +0000">
-    <title lang="fr">Biz Talk</title>
-    <desc lang="fr">A groundbreaking 30-minute interview show, giving an in-depth look into how top companies around the world conduct business and how policymakers view the fast-changing world economy. It presents 360 degree profiles of industry movers and shakers, tech mavericks and policymakers, and drills down on the stories behind their success, to give you clarity on what’s happening in every facet of business.</desc>
-    <category lang="fr">Asian</category>
-  </programme>
-  <programme channel="cgtn" start="20261122200001 +0000" stop="20261122203001 +0000">
-    <title lang="fr">The World Today</title>
-    <desc lang="fr">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="fr">Asian</category>
-  </programme>
   <programme channel="cgtn" start="20261122203001 +0000" stop="20261122210001 +0000">
     <title lang="fr">Travelogue</title>
     <desc lang="fr">Travelogue is a 30-minute travel program. Through the journeys of our intrepid hosts, we experience the beauty, culture and mystery of China, discovering how people live in this vast country and showcasing China's transformation to the world.</desc>
@@ -2599,51 +2347,6 @@
     <desc lang="fr">Rediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country's people and places, the program aims to show the global audience an inclusive and vigorous China.</desc>
     <category lang="fr">Asian</category>
   </programme>
-  <programme channel="cgtn-documentary" start="20261122140001 +0000" stop="20261122150001 +0000">
-    <title lang="fr">Living China</title>
-    <desc lang="fr">Real life stories told from the personal perspective. Moving, dramatic, sorrows and joys, expressed emphatically and expressed quietly. Watch closely to see and understand the real China as it is lived.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="cgtn-documentary" start="20261122150001 +0000" stop="20261122153001 +0000">
-    <title lang="fr">Humanities and Geography</title>
-    <desc lang="fr">A strand devoted to the nature and wildlife of China, the people who lived alongside them, and the great and diverse landscapes with which they all contend.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="cgtn-documentary" start="20261122153001 +0000" stop="20261122160001 +0000">
-    <title lang="fr">Living China</title>
-    <desc lang="fr">Real life stories told from the personal perspective. Moving, dramatic, sorrows and joys, expressed emphatically and expressed quietly. Watch closely to see and understand the real China as it is lived.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="cgtn-documentary" start="20261122160001 +0000" stop="20261122170001 +0000">
-    <title lang="fr">Special Edition</title>
-    <desc lang="fr">Prestige Chinese documentary production, tackling serious subjects with the best cinematography, editing, and all round production values with a unique Chinese perspective.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="cgtn-documentary" start="20261122170001 +0000" stop="20261122173001 +0000">
-    <title lang="fr">Journeys and Discoveries</title>
-    <desc lang="fr">A documentary series showcasing the history of China and its people.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="cgtn-documentary" start="20261122173001 +0000" stop="20261122180001 +0000">
-    <title lang="fr">History in the Frame</title>
-    <desc lang="fr">A documentary series featuring historical and archaeological exploration.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="cgtn-documentary" start="20261122180001 +0000" stop="20261122190001 +0000">
-    <title lang="fr">Best Eats</title>
-    <desc lang="fr">Food connects people! A feast for the eyes that spotlights the cuisines of China in a way that’s bound to set the mouths of the whole globe watering!</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="cgtn-documentary" start="20261122190001 +0000" stop="20261122193001 +0000">
-    <title lang="fr">Youthful China</title>
-    <desc lang="fr">The youth of a country is the future of that country. A series of documentaries focusing on the younger generation of China in which you get to see what they are achieving and what makes them tick!</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="cgtn-documentary" start="20261122193001 +0000" stop="20261122200001 +0000">
-    <title lang="fr">Pixel Collage</title>
-    <desc lang="fr">A well-crafted collage of selected short documentaries telling stories about all aspects of China! People, technology, culture, and wildlife, all are showcased in Internet-friendly form.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
   <programme channel="cgtn-documentary" start="20261122200001 +0000" stop="20261122210001 +0000">
     <title lang="fr">Living China</title>
     <desc lang="fr">Real life stories told from the personal perspective. Moving, dramatic, sorrows and joys, expressed emphatically and expressed quietly. Watch closely to see and understand the real China as it is lived.</desc>
@@ -2973,36 +2676,6 @@
     <title lang="fr">History in the Frame</title>
     <desc lang="fr">A documentary series featuring historical and archaeological exploration.</desc>
     <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="cgtn-fr" start="20261122144501 +0000" stop="20261122153001 +0000">
-    <title lang="fr">Feuilletons</title>
-    <desc lang="fr">Des feuilletons de production chinoise donnent un aperçu de la culture populaire chinoise, des aspirations et de l’attitude des Chinois face à la vie.</desc>
-    <category lang="fr">Asian</category>
-  </programme>
-  <programme channel="cgtn-fr" start="20261122153001 +0000" stop="20261122161501 +0000">
-    <title lang="fr">Feuilletons</title>
-    <desc lang="fr">Des feuilletons de production chinoise donnent un aperçu de la culture populaire chinoise, des aspirations et de l’attitude des Chinois face à la vie.</desc>
-    <category lang="fr">Asian</category>
-  </programme>
-  <programme channel="cgtn-fr" start="20261122161501 +0000" stop="20261122183001 +0000">
-    <title lang="fr">L'Empire des saveurs</title>
-    <desc lang="fr">« L’empire des saveurs » se veut être une porte vers les mille et un délices de la Chine gastronomique. Cette émission donne l’eau à la bouche et dévoile quelques-uns des grands mystères qui planent au-dessus de la cuisine chinoise aussi riche que diverse.</desc>
-    <category lang="fr">Asian</category>
-  </programme>
-  <programme channel="cgtn-fr" start="20261122183001 +0000" stop="20261122190001 +0000">
-    <title lang="fr">Dok Dok</title>
-    <desc lang="fr">« Dok Dok》, l’émission quotidienne de documentaires convergents. Avec des images léchées, ce programme offre une vision globale des charmes de la Chine contemporaine. S'appuyant sur des expressions familières aux francophones du monde entier, 《Dok Dok》 vous guide à la rencontre du peuple chinois, pour toucher sa culture et explorer les plus belles histoires de Chine. Avec ce programme, vous pourrez également apprécier les avancées de l’humanité dans ses échanges et l'apprentissage mutuel entre les différentes cultures.</desc>
-    <category lang="fr">Asian</category>
-  </programme>
-  <programme channel="cgtn-fr" start="20261122190001 +0000" stop="20261122200001 +0000">
-    <title lang="fr">Panorama</title>
-    <desc lang="fr">L’émission « Panorama » nous immerge dans un monde de secrets historiques et de rencontres humaines pour décrypter les facettes de cette Chine en pleine évolution dynamique.</desc>
-    <category lang="fr">Asian</category>
-  </programme>
-  <programme channel="cgtn-fr" start="20261122200001 +0000" stop="20261122203001 +0000">
-    <title lang="fr">Échos d'ailleurs</title>
-    <desc lang="fr">« Échos d'ailleurs » résulte d'une volonté : celle de tisser un lien entre tous les pays du monde francophone, quel que soit le continent où il se trouvent, et de mettre leurs cultures et leurs traditions en lumière. « Échos d'ailleurs » propose une sélection des meilleurs programmes issus de différents pays francophones destinés à montrer aux téléspectateurs tout ce qui fait la richesse de leur culture, de l'art à la gastronomie en passant par les traditions locales, mais également de les informer de l'actualité sociale et économique de ces pays.</desc>
-    <category lang="fr">Asian</category>
   </programme>
   <programme channel="cgtn-fr" start="20261122203001 +0000" stop="20261122211501 +0000">
     <title lang="fr">Feuilletons</title>
@@ -3423,84 +3096,6 @@
     <title lang="fr">Cartoons</title>
     <desc lang="fr">Les dessins animés proposés par « Cartoons » nous emmènent dans un monde coloré, plein d’humour et d’aventures. Ils promettent d’être divertissants tout en étant bénéfiques pour l’éducation de nos enfants.</desc>
     <category lang="fr">Asian</category>
-  </programme>
-  <programme channel="confessions-intimes" start="20261122145337 +0000" stop="20261122152500 +0000">
-    <title lang="fr">Confessions Intimes</title>
-    <sub-title lang="fr">S2:E87 Dur dur d'être maman !</sub-title>
-    <desc lang="fr">Émission de télévision qui suit des personnes qui ont un problème de comportement (Jalousie, obsession, TOC, enfants ingérables...) et les aide à s'améliorer.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="confessions-intimes" start="20261122152500 +0000" stop="20261122154615 +0000">
-    <title lang="fr">Confessions Intimes</title>
-    <sub-title lang="fr">S2:E88 Ma femme est colérique</sub-title>
-    <desc lang="fr">Émission de télévision qui suit des personnes qui ont un problème de comportement (Jalousie, obsession, TOC, enfants ingérables...) et les aide à s'améliorer.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="confessions-intimes" start="20261122154615 +0000" stop="20261122161711 +0000">
-    <title lang="fr">Confessions Intimes</title>
-    <sub-title lang="fr">S2:E89 Je veux vaincre mon hadicap</sub-title>
-    <desc lang="fr">Émission de télévision qui suit des personnes qui ont un problème de comportement (Jalousie, obsession, TOC, enfants ingérables...) et les aide à s'améliorer.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="confessions-intimes" start="20261122161711 +0000" stop="20261122164326 +0000">
-    <title lang="fr">Confessions Intimes</title>
-    <sub-title lang="fr">S2:E90 A la recherche de mon frere</sub-title>
-    <desc lang="fr">Émission de télévision qui suit des personnes qui ont un problème de comportement (Jalousie, obsession, TOC, enfants ingérables...) et les aide à s'améliorer.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="confessions-intimes" start="20261122164326 +0000" stop="20261122170219 +0000">
-    <title lang="fr">Confessions Intimes</title>
-    <sub-title lang="fr">S2:E91 A nous les vacances</sub-title>
-    <desc lang="fr">Émission de télévision qui suit des personnes qui ont un problème de comportement (Jalousie, obsession, TOC, enfants ingérables...) et les aide à s'améliorer.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="confessions-intimes" start="20261122170219 +0000" stop="20261122172506 +0000">
-    <title lang="fr">Confessions Intimes</title>
-    <sub-title lang="fr">S2:E92 Je ne veux plus etre la joujou de ma femme</sub-title>
-    <desc lang="fr">Émission de télévision qui suit des personnes qui ont un problème de comportement (Jalousie, obsession, TOC, enfants ingérables...) et les aide à s'améliorer.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="confessions-intimes" start="20261122172506 +0000" stop="20261122175020 +0000">
-    <title lang="fr">Confessions Intimes</title>
-    <sub-title lang="fr">S2:E93 Arrete de fantasmer sur Mariah Carey</sub-title>
-    <desc lang="fr">Émission de télévision qui suit des personnes qui ont un problème de comportement (Jalousie, obsession, TOC, enfants ingérables...) et les aide à s'améliorer.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="confessions-intimes" start="20261122175020 +0000" stop="20261122181639 +0000">
-    <title lang="fr">Confessions Intimes</title>
-    <sub-title lang="fr">S2:E94 Je suis jalouse et alors</sub-title>
-    <desc lang="fr">Émission de télévision qui suit des personnes qui ont un problème de comportement (Jalousie, obsession, TOC, enfants ingérables...) et les aide à s'améliorer.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="confessions-intimes" start="20261122181639 +0000" stop="20261122184619 +0000">
-    <title lang="fr">Confessions Intimes</title>
-    <sub-title lang="fr">S2:E95 Ta guerre des kilos tue notre couple</sub-title>
-    <desc lang="fr">Émission de télévision qui suit des personnes qui ont un problème de comportement (Jalousie, obsession, TOC, enfants ingérables...) et les aide à s'améliorer.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="confessions-intimes" start="20261122184619 +0000" stop="20261122191811 +0000">
-    <title lang="fr">Confessions Intimes</title>
-    <sub-title lang="fr">S2:E96 Entre nous c'est les feux de l'amour</sub-title>
-    <desc lang="fr">Émission de télévision qui suit des personnes qui ont un problème de comportement (Jalousie, obsession, TOC, enfants ingérables...) et les aide à s'améliorer.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="confessions-intimes" start="20261122191811 +0000" stop="20261122194627 +0000">
-    <title lang="fr">Confessions Intimes</title>
-    <sub-title lang="fr">S2:E97 Il était une fois un cowboy</sub-title>
-    <desc lang="fr">Émission de télévision qui suit des personnes qui ont un problème de comportement (Jalousie, obsession, TOC, enfants ingérables...) et les aide à s'améliorer.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="confessions-intimes" start="20261122194627 +0000" stop="20261122201424 +0000">
-    <title lang="fr">Confessions Intimes</title>
-    <sub-title lang="fr">S2:E98 Je suis le roi du monde.</sub-title>
-    <desc lang="fr">Émission de télévision qui suit des personnes qui ont un problème de comportement (Jalousie, obsession, TOC, enfants ingérables...) et les aide à s'améliorer.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="confessions-intimes" start="20261122201424 +0000" stop="20261122204652 +0000">
-    <title lang="fr">Confessions Intimes</title>
-    <sub-title lang="fr">S2:E49 Je veux sortir de ma boulimie</sub-title>
-    <desc lang="fr">Émission de télévision qui suit des personnes qui ont un problème de comportement (Jalousie, obsession, TOC, enfants ingérables...) et les aide à s'améliorer.</desc>
-    <category lang="fr">documentaire</category>
   </programme>
   <programme channel="confessions-intimes" start="20261122204652 +0000" stop="20261122211043 +0000">
     <title lang="fr">Confessions Intimes</title>
@@ -4108,48 +3703,6 @@
     <desc lang="fr">Émission de télévision qui suit des personnes qui ont un problème de comportement (Jalousie, obsession, TOC, enfants ingérables...) et les aide à s'améliorer.</desc>
     <category lang="fr">documentaire</category>
   </programme>
-  <programme channel="crime-history-fra" start="20261122144301 +0000" stop="20261122154001 +0000">
-    <title lang="fr">Cold Blood</title>
-    <sub-title lang="fr">S03 : E03 Cold Blood: Le meurtre qui a divisé Boston</sub-title>
-    <desc lang="fr">Cold Blood revient sur les lieux du crime pour proposer différentes théories et tenter de résoudre l’affaire.</desc>
-    <category lang="fr">Crime</category>
-  </programme>
-  <programme channel="crime-history-fra" start="20261122154001 +0000" stop="20261122163801 +0000">
-    <title lang="fr">Cold Blood</title>
-    <sub-title lang="fr">S03 : E02 Cold Blood: Murder In Modesto</sub-title>
-    <desc lang="fr">Une mère est retrouvée assassinée chez elle, tandis que sa fille de trois ans dort dans la chambre voisine.</desc>
-    <category lang="fr">Crime</category>
-  </programme>
-  <programme channel="crime-history-fra" start="20261122163801 +0000" stop="20261122173001 +0000">
-    <title lang="fr">Décompte Mortel</title>
-    <sub-title lang="fr">S01 : E16 Décompte Mortel – Derrière le Cimetière</sub-title>
-    <desc lang="fr">Les enquêteurs retracent les 24 dernières heures de la victime pour résoudre des homicides complexes.</desc>
-    <category lang="fr">Crime</category>
-  </programme>
-  <programme channel="crime-history-fra" start="20261122173001 +0000" stop="20261122182201 +0000">
-    <title lang="fr">Décompte Mortel</title>
-    <sub-title lang="fr">S01 : E18 Décompte Mortel – Spirale Incontrôlable</sub-title>
-    <desc lang="fr">Les enquêteurs retracent les 24 dernières heures de la victime pour résoudre des homicides complexes.</desc>
-    <category lang="fr">Crime</category>
-  </programme>
-  <programme channel="crime-history-fra" start="20261122182201 +0000" stop="20261122191501 +0000">
-    <title lang="fr">Décompte Mortel</title>
-    <sub-title lang="fr">S01 : E20 Décompte Mortel – Rouge Sang</sub-title>
-    <desc lang="fr">Les enquêteurs retracent les 24 dernières heures de la victime pour résoudre des homicides complexes.</desc>
-    <category lang="fr">Crime</category>
-  </programme>
-  <programme channel="crime-history-fra" start="20261122191501 +0000" stop="20261122200701 +0000">
-    <title lang="fr">Décompte Mortel</title>
-    <sub-title lang="fr">S01 : E19 Décompte Mortel – Cible Désignée</sub-title>
-    <desc lang="fr">Les enquêteurs retracent les 24 dernières heures de la victime pour résoudre des homicides complexes.</desc>
-    <category lang="fr">Crime</category>
-  </programme>
-  <programme channel="crime-history-fra" start="20261122200701 +0000" stop="20261122205901 +0000">
-    <title lang="fr">Décompte Mortel</title>
-    <sub-title lang="fr">S01 : E22 Décompte Mortel – Victime Collatérale</sub-title>
-    <desc lang="fr">Les enquêteurs retracent les 24 dernières heures de la victime pour résoudre des homicides complexes.</desc>
-    <category lang="fr">Crime</category>
-  </programme>
   <programme channel="crime-history-fra" start="20261122205901 +0000" stop="20261122215201 +0000">
     <title lang="fr">Décompte Mortel</title>
     <sub-title lang="fr">S01 : E17 Décompte Mortel – Instincts Sauvages</sub-title>
@@ -4491,48 +4044,6 @@
     <sub-title lang="fr">S06 : E07 Alliance Meurtrière: Le pire cauchemar d'une mère</sub-title>
     <desc lang="fr">Casey Ledbetter et Jo passent de l’arnaque au meurtre, faisant des victimes parmi leurs amis.</desc>
     <category lang="fr">Crime</category>
-  </programme>
-  <programme channel="crime-scene-tv-fra" start="20261122142029 +0000" stop="20261122151013 +0000">
-    <title lang="fr">Soko Kitzbuehel | FR</title>
-    <sub-title lang="fr">S20 : E02 Soko Kitzbuehel | FR</sub-title>
-    <desc lang="fr">Leon Bashiru, un jeune footballeur africain, est retrouvé mort dans la montagne.</desc>
-    <category lang="fr">Séries</category>
-  </programme>
-  <programme channel="crime-scene-tv-fra" start="20261122151013 +0000" stop="20261122155955 +0000">
-    <title lang="fr">Soko Kitzbuehel | FR</title>
-    <sub-title lang="fr">S20 : E03 Soko Kitzbuehel | FR</sub-title>
-    <desc lang="fr">Lorsqu'une professeure de mathématiques est retrouvée assassinée, les soupçons se tournent immédiatement vers une de ses collègues.</desc>
-    <category lang="fr">Séries</category>
-  </programme>
-  <programme channel="crime-scene-tv-fra" start="20261122155955 +0000" stop="20261122165214 +0000">
-    <title lang="fr">Soko Kitzbuehel | FR</title>
-    <sub-title lang="fr">S20 : E04 Soko Kitzbuehel | FR</sub-title>
-    <desc lang="fr">Kurt Stubacher, un policier qui participait à un séminaire sur les discriminations est retrouvé mort dans sa chambre d'hôtel.</desc>
-    <category lang="fr">Séries</category>
-  </programme>
-  <programme channel="crime-scene-tv-fra" start="20261122165214 +0000" stop="20261122174424 +0000">
-    <title lang="fr">Soko Kitzbuehel | FR</title>
-    <sub-title lang="fr">S20 : E05 Soko Kitzbuehel | FR</sub-title>
-    <desc lang="fr">Nina et Kroisi enquêtent sur deux meurtres dont les modes opératoires semblent similaires.</desc>
-    <category lang="fr">Séries</category>
-  </programme>
-  <programme channel="crime-scene-tv-fra" start="20261122174424 +0000" stop="20261122183634 +0000">
-    <title lang="fr">Soko Kitzbuehel | FR</title>
-    <sub-title lang="fr">S20 : E06 Soko Kitzbuehel | FR</sub-title>
-    <desc lang="fr">Alors qu'ils visitent un cimetière-musée aux épitaphes plus loufoques les uns que les autres, Hannes et la Comtesse découvrent une tombe fraîchement creusée.</desc>
-    <category lang="fr">Séries</category>
-  </programme>
-  <programme channel="crime-scene-tv-fra" start="20261122183634 +0000" stop="20261122192622 +0000">
-    <title lang="fr">Soko Kitzbuehel | FR</title>
-    <sub-title lang="fr">S20 : E07 Soko Kitzbuehel | FR</sub-title>
-    <desc lang="fr">Lukas, Nina et « Kroisi » enquêtent sur l'attaque d'une banque de la ville.</desc>
-    <category lang="fr">Séries</category>
-  </programme>
-  <programme channel="crime-scene-tv-fra" start="20261122192622 +0000" stop="20261122201501 +0000">
-    <title lang="fr">Soko Kitzbuehel | FR</title>
-    <sub-title lang="fr">S20 : E08 Soko Kitzbuehel | FR</sub-title>
-    <desc lang="fr">Jonas Penz est mort en forêt, dans sa tente, écrasé par un arbre.</desc>
-    <category lang="fr">Séries</category>
   </programme>
   <programme channel="crime-scene-tv-fra" start="20261122201501 +0000" stop="20261122210705 +0000">
     <title lang="fr">Soko Linz | FR</title>
@@ -4900,42 +4411,6 @@
     <desc lang="fr">Sébastian Guserl, un vendeur de bateaux est retrouvé mort sur un yacht qu'il faisait essayer à un client. Le demi-frère de la victime est le premier suspect.</desc>
     <category lang="fr">Séries</category>
   </programme>
-  <programme channel="deutsche-welle-eng" start="20261122150000 +0000" stop="20261122160000 +0000">
-    <title lang="fr">DW</title>
-    <sub-title lang="fr"></sub-title>
-    <desc lang="fr"></desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="deutsche-welle-eng" start="20261122160000 +0000" stop="20261122170000 +0000">
-    <title lang="fr">DW</title>
-    <sub-title lang="fr"></sub-title>
-    <desc lang="fr"></desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="deutsche-welle-eng" start="20261122170000 +0000" stop="20261122180000 +0000">
-    <title lang="fr">DW</title>
-    <sub-title lang="fr"></sub-title>
-    <desc lang="fr"></desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="deutsche-welle-eng" start="20261122180000 +0000" stop="20261122190000 +0000">
-    <title lang="fr">DW</title>
-    <sub-title lang="fr"></sub-title>
-    <desc lang="fr"></desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="deutsche-welle-eng" start="20261122190000 +0000" stop="20261122200000 +0000">
-    <title lang="fr">DW</title>
-    <sub-title lang="fr"></sub-title>
-    <desc lang="fr"></desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="deutsche-welle-eng" start="20261122200000 +0000" stop="20261122210000 +0000">
-    <title lang="fr">DW</title>
-    <sub-title lang="fr"></sub-title>
-    <desc lang="fr"></desc>
-    <category lang="fr">Actualités</category>
-  </programme>
   <programme channel="deutsche-welle-eng" start="20261122210000 +0000" stop="20261122220000 +0000">
     <title lang="fr">DW</title>
     <sub-title lang="fr"></sub-title>
@@ -5242,24 +4717,6 @@
     <desc lang="fr"></desc>
     <category lang="fr">Actualités</category>
   </programme>
-  <programme channel="enquetes-de-choc-fast-media" start="20261122141303 +0000" stop="20261122154754 +0000">
-    <title lang="fr">L'envers du décor</title>
-    <sub-title lang="fr">S01 : E06 Mayotte, l'enfer ou le paradis</sub-title>
-    <desc lang="fr">Mayotte, un paradis aux portes de l’enfer</desc>
-    <category lang="fr">Séries</category>
-  </programme>
-  <programme channel="enquetes-de-choc-fast-media" start="20261122154754 +0000" stop="20261122173828 +0000">
-    <title lang="fr">Armée</title>
-    <sub-title lang="fr">S01 : E06 L'impitoyable sélection des commandos marines</sub-title>
-    <desc lang="fr">Explorez l'univers exigeant des commandos marines français dans ce documentaire captivant. Plongez dans l'entraînement rigoureux et la sélection impitoyable de ces forces spéciales, chargées de missions souvent méconnues mais cruciales pour la défense nationale.</desc>
-    <category lang="fr">Séries</category>
-  </programme>
-  <programme channel="enquetes-de-choc-fast-media" start="20261122173828 +0000" stop="20261122183907 +0000">
-    <title lang="fr">Consommation</title>
-    <sub-title lang="fr">S01 : E22 Lentilles retour vers l'aliment du futur</sub-title>
-    <desc lang="fr">Autrefois boudée, la lentille revient en force comme aliment d’avenir pour les consommateurs et les filières agricoles.</desc>
-    <category lang="fr">Séries</category>
-  </programme>
   <programme channel="enquetes-de-choc-fast-media" start="20261122183907 +0000" stop="20261122210345 +0000">
     <title lang="fr">Société</title>
     <sub-title lang="fr">S01 : E01 Chirurgie esthétique : être jeune à tout prix</sub-title>
@@ -5451,66 +4908,6 @@
     <sub-title lang="fr">S01 : E06 L'impitoyable sélection des commandos marines</sub-title>
     <desc lang="fr">Explorez l'univers exigeant des commandos marines français dans ce documentaire captivant. Plongez dans l'entraînement rigoureux et la sélection impitoyable de ces forces spéciales, chargées de missions souvent méconnues mais cruciales pour la défense nationale.</desc>
     <category lang="fr">Séries</category>
-  </programme>
-  <programme channel="euronews-live-fra" start="20261122150000 +0000" stop="20261122153000 +0000">
-    <title lang="fr">Euronews EN DIRECT</title>
-    <desc lang="fr">La première chaîne européenne d'information internationale. Grâce à Rakuten TV, restez informé gratuitement 24/24 h et 7/7 j.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="euronews-live-fra" start="20261122153000 +0000" stop="20261122160000 +0000">
-    <title lang="fr">Euronews EN DIRECT</title>
-    <desc lang="fr">La première chaîne européenne d'information internationale. Grâce à Rakuten TV, restez informé gratuitement 24/24 h et 7/7 j.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="euronews-live-fra" start="20261122160000 +0000" stop="20261122163000 +0000">
-    <title lang="fr">Euronews EN DIRECT</title>
-    <desc lang="fr">La première chaîne européenne d'information internationale. Grâce à Rakuten TV, restez informé gratuitement 24/24 h et 7/7 j.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="euronews-live-fra" start="20261122163000 +0000" stop="20261122170000 +0000">
-    <title lang="fr">Euronews EN DIRECT</title>
-    <desc lang="fr">La première chaîne européenne d'information internationale. Grâce à Rakuten TV, restez informé gratuitement 24/24 h et 7/7 j.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="euronews-live-fra" start="20261122170000 +0000" stop="20261122173000 +0000">
-    <title lang="fr">Euronews EN DIRECT</title>
-    <desc lang="fr">La première chaîne européenne d'information internationale. Grâce à Rakuten TV, restez informé gratuitement 24/24 h et 7/7 j.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="euronews-live-fra" start="20261122173000 +0000" stop="20261122180000 +0000">
-    <title lang="fr">Euronews EN DIRECT</title>
-    <desc lang="fr">La première chaîne européenne d'information internationale. Grâce à Rakuten TV, restez informé gratuitement 24/24 h et 7/7 j.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="euronews-live-fra" start="20261122180000 +0000" stop="20261122183000 +0000">
-    <title lang="fr">Euronews EN DIRECT</title>
-    <desc lang="fr">La première chaîne européenne d'information internationale. Grâce à Rakuten TV, restez informé gratuitement 24/24 h et 7/7 j.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="euronews-live-fra" start="20261122183000 +0000" stop="20261122190000 +0000">
-    <title lang="fr">Euronews EN DIRECT</title>
-    <desc lang="fr">La première chaîne européenne d'information internationale. Grâce à Rakuten TV, restez informé gratuitement 24/24 h et 7/7 j.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="euronews-live-fra" start="20261122190000 +0000" stop="20261122193000 +0000">
-    <title lang="fr">Euronews EN DIRECT</title>
-    <desc lang="fr">La première chaîne européenne d'information internationale. Grâce à Rakuten TV, restez informé gratuitement 24/24 h et 7/7 j.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="euronews-live-fra" start="20261122193000 +0000" stop="20261122200000 +0000">
-    <title lang="fr">Euronews EN DIRECT</title>
-    <desc lang="fr">La première chaîne européenne d'information internationale. Grâce à Rakuten TV, restez informé gratuitement 24/24 h et 7/7 j.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="euronews-live-fra" start="20261122200000 +0000" stop="20261122203000 +0000">
-    <title lang="fr">Euronews EN DIRECT</title>
-    <desc lang="fr">La première chaîne européenne d'information internationale. Grâce à Rakuten TV, restez informé gratuitement 24/24 h et 7/7 j.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="euronews-live-fra" start="20261122203000 +0000" stop="20261122210000 +0000">
-    <title lang="fr">Euronews EN DIRECT</title>
-    <desc lang="fr">La première chaîne européenne d'information internationale. Grâce à Rakuten TV, restez informé gratuitement 24/24 h et 7/7 j.</desc>
-    <category lang="fr">Actualités</category>
   </programme>
   <programme channel="euronews-live-fra" start="20261122210000 +0000" stop="20261122213000 +0000">
     <title lang="fr">Euronews EN DIRECT</title>
@@ -7112,39 +6509,6 @@
     <desc lang="fr">Inspiring topics and positive initiatives that are changing the world.</desc>
     <category lang="fr">Actualités</category>
   </programme>
-  <programme channel="homicide-fast-media" start="20261122145448 +0000" stop="20261122155050 +0000">
-    <title lang="fr">Cold Blood scènes de crime</title>
-    <sub-title lang="fr">S01 : E08 Cold blood scènes de crime: Amis et voisins</sub-title>
-    <desc lang="fr">Un meurtre a été commis et, à mesure que les preuves s'accumulent, la confusion s'installe. La science médico-légale peut-elle révéler la vérité ?</desc>
-    <category lang="fr">Divertissements</category>
-  </programme>
-  <programme channel="homicide-fast-media" start="20261122155050 +0000" stop="20261122164459 +0000">
-    <title lang="fr">The FBI Files</title>
-    <sub-title lang="fr">S01 : E07 The FBI Files : Le vol illégal</sub-title>
-    <desc lang="fr">Pénétrez au coeur des plus grandes affaires criminelles traitées par le FBI. Des histoires vraies racontées par James Kallstrom, ancien chef du bureau du FBI à New York</desc>
-    <category lang="fr">Divertissements</category>
-  </programme>
-  <programme channel="homicide-fast-media" start="20261122164459 +0000" stop="20261122173909 +0000">
-    <title lang="fr">The FBI Files</title>
-    <sub-title lang="fr">S01 : E08 The FBI Files : Des secrets mortels</sub-title>
-    <desc lang="fr">Pénétrez au coeur des plus grandes affaires criminelles traitées par le FBI. Des histoires vraies racontées par James Kallstrom, ancien chef du bureau du FBI à New York</desc>
-    <category lang="fr">Divertissements</category>
-  </programme>
-  <programme channel="homicide-fast-media" start="20261122173909 +0000" stop="20261122184255 +0000">
-    <title lang="fr">Dans l’ombre d’Epstein, l’affaire Ghislaine Maxwell</title>
-    <desc lang="fr">Après la mort de son père, Ghislaine part pour New York et rencontre Jeffrey Epstein. Compagne, employée et proche collaboratrice, elle est accusée d’avoir joué un rôle central dans son réseau criminel.</desc>
-    <category lang="fr">Divertissements</category>
-  </programme>
-  <programme channel="homicide-fast-media" start="20261122184255 +0000" stop="20261122193533 +0000">
-    <title lang="fr">Dans l’ombre d’Epstein, l’affaire Ghislaine Maxwell</title>
-    <desc lang="fr">Après des années passées à prendre ses distances avec Epstein, Ghislaine Maxwell disparaît de la vie publique. Rattrapée par les accusations, elle est arrêtée et doit désormais répondre de ses actes devant la justice.</desc>
-    <category lang="fr">Divertissements</category>
-  </programme>
-  <programme channel="homicide-fast-media" start="20261122193533 +0000" stop="20261122202811 +0000">
-    <title lang="fr">Dans l’ombre d’Epstein, l’affaire Ghislaine Maxwell</title>
-    <desc lang="fr">Après des années passées à prendre ses distances avec Epstein, Ghislaine Maxwell disparaît de la vie publique. Rattrapée par les accusations, elle est arrêtée et doit désormais répondre de ses actes devant la justice.</desc>
-    <category lang="fr">Divertissements</category>
-  </programme>
   <programme channel="homicide-fast-media" start="20261122202811 +0000" stop="20261122212411 +0000">
     <title lang="fr">Cold Blood scènes de crime</title>
     <sub-title lang="fr">S01 : E05 Cold blood scènes de crime: Chair et sang</sub-title>
@@ -7493,40 +6857,6 @@
     <desc lang="fr">Alors que les détectives enquêtent sur le meurtre brutal d'un barman de Tampa, ce sont les notes manuscrites de la victime qui font exploser l'affaire, et l'équipe se rapproche bientôt d'un prédateur manipulateur qui a habilement externalisé ses ambitions sanguinaires.</desc>
     <category lang="fr">Divertissements</category>
   </programme>
-  <programme channel="into-crime" start="20261122142607 +0000" stop="20261122152039 +0000">
-    <title lang="fr">Wicked attraction</title>
-    <sub-title lang="fr">S05 : E03 Wicked attraction</sub-title>
-    <desc lang="fr">Il analyse des cas où des pulsions malsaines poussent des personnes réelles à commettre des meurtres.</desc>
-    <category lang="fr">Divertissements</category>
-  </programme>
-  <programme channel="into-crime" start="20261122152039 +0000" stop="20261122161511 +0000">
-    <title lang="fr">Wicked attraction</title>
-    <sub-title lang="fr">S05 : E03 Wicked attraction</sub-title>
-    <desc lang="fr">Il analyse des cas où des pulsions malsaines poussent des personnes réelles à commettre des meurtres.</desc>
-    <category lang="fr">Divertissements</category>
-  </programme>
-  <programme channel="into-crime" start="20261122161511 +0000" stop="20261122164805 +0000">
-    <title lang="fr">Témoignages d'Expert</title>
-    <sub-title lang="fr">S03 : E14 Témoignages d'Expert</sub-title>
-    <desc lang="fr">Ashley John-Baptiste présente cette série documentaire criminelle diffusée en journée, qui explore les coulisses des enquêtes où des experts ont aidé à résoudre certaines des affaires criminelles majeures les plus complexes du Royaume-Uni.</desc>
-    <category lang="fr">Divertissements</category>
-  </programme>
-  <programme channel="into-crime" start="20261122164805 +0000" stop="20261122172045 +0000">
-    <title lang="fr">Témoignages d'Expert</title>
-    <sub-title lang="fr">S03 : E14 Témoignages d'Expert</sub-title>
-    <desc lang="fr">Ashley John-Baptiste présente cette série documentaire criminelle diffusée en journée, qui explore les coulisses des enquêtes où des experts ont aidé à résoudre certaines des affaires criminelles majeures les plus complexes du Royaume-Uni.</desc>
-    <category lang="fr">Divertissements</category>
-  </programme>
-  <programme channel="into-crime" start="20261122172045 +0000" stop="20261122185813 +0000">
-    <title lang="fr">Gone Missing</title>
-    <desc lang="fr">Lorsque deux meilleurs amis disparaissent pendant les vacances de printemps, leurs mères tentent de les retrouver, tout en se rendant compte que leurs différents styles parentaux peuvent avoir conduit à ces disparitions.</desc>
-    <category lang="fr">Divertissements</category>
-  </programme>
-  <programme channel="into-crime" start="20261122185813 +0000" stop="20261122203146 +0000">
-    <title lang="fr">SIS: Unité d'élite</title>
-    <desc lang="fr">La Special Investigation Squad, une force de police secrète d'élite, traque les criminels dans les rues de Los Angeles.</desc>
-    <category lang="fr">Divertissements</category>
-  </programme>
   <programme channel="into-crime" start="20261122203146 +0000" stop="20261122221349 +0000">
     <title lang="fr">Breakout</title>
     <desc lang="fr">Deux criminels tentent de retrouver les enfants qui les ont vus commettre un meurtre dans les bois.</desc>
@@ -7868,54 +7198,6 @@
     <title lang="fr">Vengeance du passé</title>
     <desc lang="fr">Une femme retourne chez elle pour enquêter sur la mort mystérieuse de ses amis d'enfance.</desc>
     <category lang="fr">Divertissements</category>
-  </programme>
-  <programme channel="le-meilleur-de-la-tv-realite" start="20261122141050 +0000" stop="20261122155257 +0000">
-    <title lang="fr">Tahiti Quest</title>
-    <sub-title lang="fr">S03 : E04 Tahiti Quest - Saison 3 - Episode 4</sub-title>
-    <desc lang="fr">5 familles ont été choisies et vont abandonner leur quotidien quelques temps pour vivre une aventure humaine incroyable. Elles vont participer à des épreuves originales et inoubliables à Moorea.</desc>
-    <category lang="fr">Reality Shows</category>
-  </programme>
-  <programme channel="le-meilleur-de-la-tv-realite" start="20261122155257 +0000" stop="20261122163106 +0000">
-    <title lang="fr">Friend's Trip</title>
-    <sub-title lang="fr">S03 : E07 Friend's Trip - Saison 3 - Episode 7</sub-title>
-    <desc lang="fr">Des équipes d'amis inséparables ont décidé de tester leur amitié au cours d’une compétition hors du commun ! A la fin de l'aventure Friends Trip, qui sera élu Meilleur Ami et remportera les 50 000€ ?</desc>
-    <category lang="fr">Reality Shows</category>
-  </programme>
-  <programme channel="le-meilleur-de-la-tv-realite" start="20261122163106 +0000" stop="20261122170700 +0000">
-    <title lang="fr">Friend's Trip</title>
-    <sub-title lang="fr">S03 : E08 Friend's Trip - Saison 3 - Episode 8</sub-title>
-    <desc lang="fr">Des équipes d'amis inséparables ont décidé de tester leur amitié au cours d’une compétition hors du commun ! A la fin de l'aventure Friends Trip, qui sera élu Meilleur Ami et remportera les 50 000€ ?</desc>
-    <category lang="fr">Reality Shows</category>
-  </programme>
-  <programme channel="le-meilleur-de-la-tv-realite" start="20261122170700 +0000" stop="20261122174501 +0000">
-    <title lang="fr">Friend's Trip</title>
-    <sub-title lang="fr">S03 : E09 Friend's Trip - Saison 3 - Episode 9</sub-title>
-    <desc lang="fr">Des équipes d'amis inséparables ont décidé de tester leur amitié au cours d’une compétition hors du commun ! A la fin de l'aventure Friends Trip, qui sera élu Meilleur Ami et remportera les 50 000€ ?</desc>
-    <category lang="fr">Reality Shows</category>
-  </programme>
-  <programme channel="le-meilleur-de-la-tv-realite" start="20261122174501 +0000" stop="20261122182702 +0000">
-    <title lang="fr">Friend's Trip</title>
-    <sub-title lang="fr">S03 : E10 Friend's Trip - Saison 3 - Episode 10</sub-title>
-    <desc lang="fr">Des équipes d'amis inséparables ont décidé de tester leur amitié au cours d’une compétition hors du commun ! A la fin de l'aventure Friends Trip, qui sera élu Meilleur Ami et remportera les 50 000€ ?</desc>
-    <category lang="fr">Reality Shows</category>
-  </programme>
-  <programme channel="le-meilleur-de-la-tv-realite" start="20261122182702 +0000" stop="20261122190342 +0000">
-    <title lang="fr">Friend's Trip</title>
-    <sub-title lang="fr">S03 : E11 Friend's Trip - Saison 3 - Episode 11</sub-title>
-    <desc lang="fr">Des équipes d'amis inséparables ont décidé de tester leur amitié au cours d’une compétition hors du commun ! A la fin de l'aventure Friends Trip, qui sera élu Meilleur Ami et remportera les 50 000€ ?</desc>
-    <category lang="fr">Reality Shows</category>
-  </programme>
-  <programme channel="le-meilleur-de-la-tv-realite" start="20261122190342 +0000" stop="20261122194148 +0000">
-    <title lang="fr">Friend's Trip</title>
-    <sub-title lang="fr">S03 : E12 Friend's Trip - Saison 3 - Episode 12</sub-title>
-    <desc lang="fr">Des équipes d'amis inséparables ont décidé de tester leur amitié au cours d’une compétition hors du commun ! A la fin de l'aventure Friends Trip, qui sera élu Meilleur Ami et remportera les 50 000€ ?</desc>
-    <category lang="fr">Reality Shows</category>
-  </programme>
-  <programme channel="le-meilleur-de-la-tv-realite" start="20261122194148 +0000" stop="20261122202022 +0000">
-    <title lang="fr">Friend's Trip</title>
-    <sub-title lang="fr">S03 : E13 Friend's Trip - Saison 3 - Episode 13</sub-title>
-    <desc lang="fr">Des équipes d'amis inséparables ont décidé de tester leur amitié au cours d’une compétition hors du commun ! A la fin de l'aventure Friends Trip, qui sera élu Meilleur Ami et remportera les 50 000€ ?</desc>
-    <category lang="fr">Reality Shows</category>
   </programme>
   <programme channel="le-meilleur-de-la-tv-realite" start="20261122202022 +0000" stop="20261122210115 +0000">
     <title lang="fr">Friend's Trip</title>
@@ -8384,54 +7666,6 @@
     <sub-title lang="fr">S01 : E05 In car with Christine Bravo - Prime 1</sub-title>
     <desc lang="fr">Quand on a su que Christine voulait faire découvrir à son assistante et grande amie Françoise la côte Ouest des Etats-Unis pendant les vacances…On a demandé à s’incruster… Et Christine a accepté…</desc>
     <category lang="fr">Reality Shows</category>
-  </programme>
-  <programme channel="les-anges" start="20261122145415 +0000" stop="20261122153418 +0000">
-    <title lang="fr">Les Anges</title>
-    <sub-title lang="fr">S07 : E52 Les Anges - Saison 7 - Episode 52</sub-title>
-    <desc lang="fr">Suivez les aventures de candidats qui ont marque la telerealite en France ! Pendant plusieurs semaines, c’est dans les plus grandes villes du monde et dans une villa de star qu’ils tenteront de realiser leurs objectifs professionnels.</desc>
-    <category lang="fr">Divertissements</category>
-  </programme>
-  <programme channel="les-anges" start="20261122153418 +0000" stop="20261122161342 +0000">
-    <title lang="fr">Les Anges</title>
-    <sub-title lang="fr">S07 : E53 Les Anges - Saison 7 - Episode 53</sub-title>
-    <desc lang="fr">Suivez les aventures de candidats qui ont marque la telerealite en France ! Pendant plusieurs semaines, c’est dans les plus grandes villes du monde et dans une villa de star qu’ils tenteront de realiser leurs objectifs professionnels.</desc>
-    <category lang="fr">Divertissements</category>
-  </programme>
-  <programme channel="les-anges" start="20261122161342 +0000" stop="20261122165231 +0000">
-    <title lang="fr">Les Anges</title>
-    <sub-title lang="fr">S07 : E54 Les Anges - Saison 7 - Episode 54</sub-title>
-    <desc lang="fr">Suivez les aventures de candidats qui ont marque la telerealite en France ! Pendant plusieurs semaines, c’est dans les plus grandes villes du monde et dans une villa de star qu’ils tenteront de realiser leurs objectifs professionnels.</desc>
-    <category lang="fr">Divertissements</category>
-  </programme>
-  <programme channel="les-anges" start="20261122165231 +0000" stop="20261122172611 +0000">
-    <title lang="fr">Les Anges</title>
-    <sub-title lang="fr">S05 : E17 Les Anges - Saison 5 - Episode 17</sub-title>
-    <desc lang="fr">Suivez les aventures de candidats qui ont marque la telerealite en France ! Pendant plusieurs semaines, c’est dans les plus grandes villes du monde et dans une villa de star qu’ils tenteront de realiser leurs objectifs professionnels.</desc>
-    <category lang="fr">Divertissements</category>
-  </programme>
-  <programme channel="les-anges" start="20261122172611 +0000" stop="20261122181840 +0000">
-    <title lang="fr">Les Anges</title>
-    <sub-title lang="fr">S10 : E45 Les Anges - Saison 10 - Episode 45</sub-title>
-    <desc lang="fr">Suivez les aventures de candidats qui ont marque la telerealite en France ! Pendant plusieurs semaines, c’est dans les plus grandes villes du monde et dans une villa de star qu’ils tenteront de realiser leurs objectifs professionnels.</desc>
-    <category lang="fr">Divertissements</category>
-  </programme>
-  <programme channel="les-anges" start="20261122181840 +0000" stop="20261122191007 +0000">
-    <title lang="fr">Les Anges</title>
-    <sub-title lang="fr">S10 : E46 Les Anges - Saison 10 - Episode 46</sub-title>
-    <desc lang="fr">Suivez les aventures de candidats qui ont marque la telerealite en France ! Pendant plusieurs semaines, c’est dans les plus grandes villes du monde et dans une villa de star qu’ils tenteront de realiser leurs objectifs professionnels.</desc>
-    <category lang="fr">Divertissements</category>
-  </programme>
-  <programme channel="les-anges" start="20261122191007 +0000" stop="20261122200027 +0000">
-    <title lang="fr">Les Anges</title>
-    <sub-title lang="fr">S10 : E47 Les Anges - Saison 10 - Episode 47</sub-title>
-    <desc lang="fr">Suivez les aventures de candidats qui ont marque la telerealite en France ! Pendant plusieurs semaines, c’est dans les plus grandes villes du monde et dans une villa de star qu’ils tenteront de realiser leurs objectifs professionnels.</desc>
-    <category lang="fr">Divertissements</category>
-  </programme>
-  <programme channel="les-anges" start="20261122200027 +0000" stop="20261122205245 +0000">
-    <title lang="fr">Les Anges</title>
-    <sub-title lang="fr">S10 : E48 Les Anges - Saison 10 - Episode 48</sub-title>
-    <desc lang="fr">Suivez les aventures de candidats qui ont marque la telerealite en France ! Pendant plusieurs semaines, c’est dans les plus grandes villes du monde et dans une villa de star qu’ils tenteront de realiser leurs objectifs professionnels.</desc>
-    <category lang="fr">Divertissements</category>
   </programme>
   <programme channel="les-anges" start="20261122205245 +0000" stop="20261122213109 +0000">
     <title lang="fr">Les Anges</title>
@@ -8913,24 +8147,6 @@
     <desc lang="fr">Suivez les aventures de candidats qui ont marque la telerealite en France ! Pendant plusieurs semaines, c’est dans les plus grandes villes du monde et dans une villa de star qu’ils tenteront de realiser leurs objectifs professionnels.</desc>
     <category lang="fr">Divertissements</category>
   </programme>
-  <programme channel="les-detectives-fr" start="20261122142432 +0000" stop="20261122160706 +0000">
-    <title lang="fr">Brokenwood</title>
-    <sub-title lang="fr">S01 : E01 Épisode 1: Du sang et de l'eau</sub-title>
-    <desc lang="fr">Un fermier est retrouvé mort; l'inspecteur Shepherd enquête sur un possible meurtre à Brokenwood.</desc>
-    <category lang="fr">Crime</category>
-  </programme>
-  <programme channel="les-detectives-fr" start="20261122160706 +0000" stop="20261122175557 +0000">
-    <title lang="fr">Brokenwood</title>
-    <sub-title lang="fr">S01 : E02 Épisode 2: Les raisins de la colère</sub-title>
-    <desc lang="fr">Un critique de vin est retrouvé mort à Brokenwood, perturbant le salon annuel du vin.</desc>
-    <category lang="fr">Crime</category>
-  </programme>
-  <programme channel="les-detectives-fr" start="20261122175557 +0000" stop="20261122193413 +0000">
-    <title lang="fr">Brokenwood</title>
-    <sub-title lang="fr">S01 : E03 Épisode 3: Pour l'amour du golf</sub-title>
-    <desc lang="fr">Adele Stone meurt mystérieusement sur le green; Mike et Kristin enquêtent sur un possible empoisonnement.</desc>
-    <category lang="fr">Crime</category>
-  </programme>
   <programme channel="les-detectives-fr" start="20261122193413 +0000" stop="20261122211924 +0000">
     <title lang="fr">Brokenwood</title>
     <sub-title lang="fr">S01 : E04 Épisode 4: Chasse à l'homme</sub-title>
@@ -9152,84 +8368,6 @@
     <sub-title lang="fr">S01 : E01 Épisode 1: Du sang et de l'eau</sub-title>
     <desc lang="fr">Un fermier est retrouvé mort; l'inspecteur Shepherd enquête sur un possible meurtre à Brokenwood.</desc>
     <category lang="fr">Crime</category>
-  </programme>
-  <programme channel="les-secrets-de-nos-regions" start="20261122143126 +0000" stop="20261122150113 +0000">
-    <title lang="fr">Les Secrets De Nos Régions</title>
-    <sub-title lang="fr">S01 : E243 Portrait - Les Secrets de Nos Régions</sub-title>
-    <desc lang="fr">Découvrez la France sous toutes ses formes à travers des reportages sur la santé, la nature, l'histoire, l'évasion, le patrimoine, la gastronomie, les traditions et initiatives écologiques.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="les-secrets-de-nos-regions" start="20261122150113 +0000" stop="20261122152826 +0000">
-    <title lang="fr">Les Secrets De Nos Régions</title>
-    <sub-title lang="fr">S01 : E82 Patrimoine - Les Secrets de Nos Régions</sub-title>
-    <desc lang="fr">Découvrez la France sous toutes ses formes à travers des reportages sur la santé, la nature, l'histoire, l'évasion, le patrimoine, la gastronomie, les traditions et initiatives écologiques.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="les-secrets-de-nos-regions" start="20261122152826 +0000" stop="20261122155521 +0000">
-    <title lang="fr">Les Secrets De Nos Régions</title>
-    <sub-title lang="fr">S01 : E361 Terroir - Les Secrets de Nos Régions</sub-title>
-    <desc lang="fr">Découvrez la France sous toutes ses formes à travers des reportages sur la santé, la nature, l'histoire, l'évasion, le patrimoine, la gastronomie, les traditions et initiatives écologiques.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="les-secrets-de-nos-regions" start="20261122155521 +0000" stop="20261122162429 +0000">
-    <title lang="fr">Les Secrets De Nos Régions</title>
-    <sub-title lang="fr">S01 : E81 Terroir - Les Secrets de Nos Régions</sub-title>
-    <desc lang="fr">Découvrez la France sous toutes ses formes à travers des reportages sur la santé, la nature, l'histoire, l'évasion, le patrimoine, la gastronomie, les traditions et initiatives écologiques.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="les-secrets-de-nos-regions" start="20261122162429 +0000" stop="20261122165040 +0000">
-    <title lang="fr">Les Secrets De Nos Régions</title>
-    <sub-title lang="fr">S01 : E336 Artisanat - Les Secrets de Nos Régions</sub-title>
-    <desc lang="fr">Découvrez la France sous toutes ses formes à travers des reportages sur la santé, la nature, l'histoire, l'évasion, le patrimoine, la gastronomie, les traditions et initiatives écologiques.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="les-secrets-de-nos-regions" start="20261122165040 +0000" stop="20261122171709 +0000">
-    <title lang="fr">Les Secrets De Nos Régions</title>
-    <sub-title lang="fr">S01 : E06 Gastronomie - Les Secrets de Nos Régions</sub-title>
-    <desc lang="fr">Découvrez la France sous toutes ses formes à travers des reportages sur la santé, la nature, l'histoire, l'évasion, le patrimoine, la gastronomie, les traditions et initiatives écologiques.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="les-secrets-de-nos-regions" start="20261122171709 +0000" stop="20261122174548 +0000">
-    <title lang="fr">Les Secrets De Nos Régions</title>
-    <sub-title lang="fr">S01 : E45 Gastronomie - Les Secrets de Nos Régions</sub-title>
-    <desc lang="fr">Découvrez la France sous toutes ses formes à travers des reportages sur la santé, la nature, l'histoire, l'évasion, le patrimoine, la gastronomie, les traditions et initiatives écologiques.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="les-secrets-de-nos-regions" start="20261122174548 +0000" stop="20261122181300 +0000">
-    <title lang="fr">Les Secrets De Nos Régions</title>
-    <sub-title lang="fr">S01 : E85 Patrimoine - Les Secrets de Nos Régions</sub-title>
-    <desc lang="fr">Découvrez la France sous toutes ses formes à travers des reportages sur la santé, la nature, l'histoire, l'évasion, le patrimoine, la gastronomie, les traditions et initiatives écologiques.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="les-secrets-de-nos-regions" start="20261122181300 +0000" stop="20261122184446 +0000">
-    <title lang="fr">Les Secrets De Nos Régions</title>
-    <sub-title lang="fr">S01 : E19 Terroir - Les Secrets de Nos Régions</sub-title>
-    <desc lang="fr">Découvrez la France sous toutes ses formes à travers des reportages sur la santé, la nature, l'histoire, l'évasion, le patrimoine, la gastronomie, les traditions et initiatives écologiques.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="les-secrets-de-nos-regions" start="20261122184446 +0000" stop="20261122191309 +0000">
-    <title lang="fr">Les Secrets De Nos Régions</title>
-    <sub-title lang="fr">S01 : E31 Patrimoine - Les Secrets de Nos Régions</sub-title>
-    <desc lang="fr">Découvrez la France sous toutes ses formes à travers des reportages sur la santé, la nature, l'histoire, l'évasion, le patrimoine, la gastronomie, les traditions et initiatives écologiques.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="les-secrets-de-nos-regions" start="20261122191309 +0000" stop="20261122194008 +0000">
-    <title lang="fr">Les Secrets De Nos Régions</title>
-    <sub-title lang="fr">S01 : E348 Gastronomie - Les Secrets de Nos Régions</sub-title>
-    <desc lang="fr">Découvrez la France sous toutes ses formes à travers des reportages sur la santé, la nature, l'histoire, l'évasion, le patrimoine, la gastronomie, les traditions et initiatives écologiques.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="les-secrets-de-nos-regions" start="20261122194008 +0000" stop="20261122200605 +0000">
-    <title lang="fr">Les Secrets De Nos Régions</title>
-    <sub-title lang="fr">S01 : E18 Terroir - Les Secrets de Nos Régions</sub-title>
-    <desc lang="fr">Découvrez la France sous toutes ses formes à travers des reportages sur la santé, la nature, l'histoire, l'évasion, le patrimoine, la gastronomie, les traditions et initiatives écologiques.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="les-secrets-de-nos-regions" start="20261122200605 +0000" stop="20261122203407 +0000">
-    <title lang="fr">Les Secrets De Nos Régions</title>
-    <sub-title lang="fr">S01 : E220 Terroir - Les Secrets de Nos Régions</sub-title>
-    <desc lang="fr">Découvrez la France sous toutes ses formes à travers des reportages sur la santé, la nature, l'histoire, l'évasion, le patrimoine, la gastronomie, les traditions et initiatives écologiques.</desc>
-    <category lang="fr">documentaire</category>
   </programme>
   <programme channel="les-secrets-de-nos-regions" start="20261122203407 +0000" stop="20261122210312 +0000">
     <title lang="fr">Les Secrets De Nos Régions</title>
@@ -9879,48 +9017,6 @@
     <desc lang="fr">Découvrez la France sous toutes ses formes à travers des reportages sur la santé, la nature, l'histoire, l'évasion, le patrimoine, la gastronomie, les traditions et initiatives écologiques.</desc>
     <category lang="fr">documentaire</category>
   </programme>
-  <programme channel="mayday-air-disaster-channel-fra" start="20261122142701 +0000" stop="20261122152101 +0000">
-    <title lang="fr">Mayday : Catastrophe Aérienne</title>
-    <sub-title lang="fr">S03 : E07 Hélicoptère abattu</sub-title>
-    <desc lang="fr">Par conditions météorologiques extrêmes, un hélicoptère effectue un trajet de routine.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="mayday-air-disaster-channel-fra" start="20261122152101 +0000" stop="20261122161501 +0000">
-    <title lang="fr">Mayday : Catastrophe Aérienne</title>
-    <sub-title lang="fr">S03 : E10 Un enfant dans le cockpit</sub-title>
-    <desc lang="fr">Un ferry grec s’écrase contre un immense rocher.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="mayday-air-disaster-channel-fra" start="20261122161501 +0000" stop="20261122170801 +0000">
-    <title lang="fr">Mayday : Catastrophe Aérienne</title>
-    <sub-title lang="fr">S11 : E08 Angle mort</sub-title>
-    <desc lang="fr">Le vol 182 de PSA entre en collision avec un Cessna et les deux avions s’écrasent.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="mayday-air-disaster-channel-fra" start="20261122170801 +0000" stop="20261122180201 +0000">
-    <title lang="fr">Mayday : Catastrophe Aérienne</title>
-    <sub-title lang="fr">S07 : E06 Chute rapide</sub-title>
-    <desc lang="fr">Le moteur droit du vol 1153 de Tuninter tombe soudainement en panne.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="mayday-air-disaster-channel-fra" start="20261122180201 +0000" stop="20261122185501 +0000">
-    <title lang="fr">Mayday : Catastrophe Aérienne</title>
-    <sub-title lang="fr">S07 : E02 La catastrophe de Lockerbie</sub-title>
-    <desc lang="fr">Le vol 103 de Pan Am explose soudainement dans le ciel au-dessus de Lockerbie, en Écosse.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="mayday-air-disaster-channel-fra" start="20261122185501 +0000" stop="20261122194801 +0000">
-    <title lang="fr">Mayday : Catastrophe Aérienne</title>
-    <sub-title lang="fr">S09 : E06 Affaire classée</sub-title>
-    <desc lang="fr">Les pilotes craignent qu’une forte chute de neige ne retarde encore davantage leur départ.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="mayday-air-disaster-channel-fra" start="20261122194801 +0000" stop="20261122204101 +0000">
-    <title lang="fr">Mayday : Catastrophe Aérienne</title>
-    <sub-title lang="fr">S11 : E01 Réputation mortelle</sub-title>
-    <desc lang="fr">Le vol 3054 de TAM Airlines dévale la piste à toute vitesse et s’écrase.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
   <programme channel="mayday-air-disaster-channel-fra" start="20261122204101 +0000" stop="20261122213401 +0000">
     <title lang="fr">Mayday : Catastrophe Aérienne</title>
     <sub-title lang="fr">S11 : E06 Tournant décisif</sub-title>
@@ -10267,48 +9363,6 @@
     <title lang="fr">Mayday : Catastrophe Aérienne</title>
     <sub-title lang="fr">S07 : E08 Gelé en plein vol</sub-title>
     <desc lang="fr">Retrace le crash du vol 4184 d’American Eagle près de Roselawn, dans l’Indiana.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="nature-time-fr" start="20261122140923 +0000" stop="20261122150405 +0000">
-    <title lang="fr">La vallée de l'eau et du feu</title>
-    <sub-title lang="fr">S01 : E02 Après les pluies</sub-title>
-    <desc lang="fr">Les animaux du parc national du Luangwa Sud doivent survivre à la saison sèche.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="nature-time-fr" start="20261122150405 +0000" stop="20261122155847 +0000">
-    <title lang="fr">La vallée de l'eau et du feu</title>
-    <sub-title lang="fr">S01 : E03 Attendre la pluie</sub-title>
-    <desc lang="fr">Que font les animaux pour survivre à une impitoyable et longue saison sèche ?</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="nature-time-fr" start="20261122155847 +0000" stop="20261122165242 +0000">
-    <title lang="fr">Secrets de la vie sauvage australienne</title>
-    <sub-title lang="fr">S01 : E01 La vie secrète des serpents</sub-title>
-    <desc lang="fr">Les 300 espèces de serpents d'Australie sont aussi uniques que leur milieu.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="nature-time-fr" start="20261122165242 +0000" stop="20261122174700 +0000">
-    <title lang="fr">Secrets de la vie sauvage australienne</title>
-    <sub-title lang="fr">S01 : E02 La vie secrète des dingos</sub-title>
-    <desc lang="fr">Prédateurs d'exception, le rôle des dingos est menacé par les animaux d'élevage.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="nature-time-fr" start="20261122174700 +0000" stop="20261122184343 +0000">
-    <title lang="fr">Secrets de la vie sauvage australienne</title>
-    <sub-title lang="fr">S01 : E03 La vie secrète des crocodiles</sub-title>
-    <desc lang="fr">Ces formidables prédateurs chassaient les dinosaures et vivent encore de nos jours.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="nature-time-fr" start="20261122184343 +0000" stop="20261122193832 +0000">
-    <title lang="fr">Enfer en Arabie</title>
-    <sub-title lang="fr">S01 : E04 Étranges merveilles de l'oued</sub-title>
-    <desc lang="fr">Découvrez un oued, où l'eau donne la vie fauchée par les prédateurs.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="nature-time-fr" start="20261122193832 +0000" stop="20261122203321 +0000">
-    <title lang="fr">Enfer en Arabie</title>
-    <sub-title lang="fr">S01 : E05 Maîtres des airs</sub-title>
-    <desc lang="fr">3 milliards d'oiseaux migrateurs survivent dans une région au climat extrême.</desc>
     <category lang="fr">documentaire</category>
   </programme>
   <programme channel="nature-time-fr" start="20261122203321 +0000" stop="20261122212736 +0000">
@@ -10688,66 +9742,6 @@
     <sub-title lang="fr">S01 : E01 Le retour des éléphants dans la nature</sub-title>
     <desc lang="fr">Découvrez la guérison unique d’éléphants exploités et maltraités.</desc>
     <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="newsworld-fra" start="20261122143001 +0000" stop="20261122150001 +0000">
-    <title lang="fr">The News</title>
-    <desc lang="fr">Current news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="newsworld-fra" start="20261122150001 +0000" stop="20261122153001 +0000">
-    <title lang="fr">News Hour</title>
-    <desc lang="fr">Current news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="newsworld-fra" start="20261122153001 +0000" stop="20261122160001 +0000">
-    <title lang="fr">News Hour</title>
-    <desc lang="fr">Current news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="newsworld-fra" start="20261122160001 +0000" stop="20261122163001 +0000">
-    <title lang="fr">The News</title>
-    <desc lang="fr">Current news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="newsworld-fra" start="20261122163001 +0000" stop="20261122170001 +0000">
-    <title lang="fr">The News</title>
-    <desc lang="fr">Current news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="newsworld-fra" start="20261122170001 +0000" stop="20261122173001 +0000">
-    <title lang="fr">News Hour</title>
-    <desc lang="fr">Current news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="newsworld-fra" start="20261122173001 +0000" stop="20261122180001 +0000">
-    <title lang="fr">News Hour</title>
-    <desc lang="fr">Current news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="newsworld-fra" start="20261122180001 +0000" stop="20261122183001 +0000">
-    <title lang="fr">The News</title>
-    <desc lang="fr">Current news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="newsworld-fra" start="20261122183001 +0000" stop="20261122190001 +0000">
-    <title lang="fr">The News</title>
-    <desc lang="fr">Current news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="newsworld-fra" start="20261122190001 +0000" stop="20261122193001 +0000">
-    <title lang="fr">The News</title>
-    <desc lang="fr">Current news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="newsworld-fra" start="20261122193001 +0000" stop="20261122200001 +0000">
-    <title lang="fr">The News</title>
-    <desc lang="fr">Current news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="newsworld-fra" start="20261122200001 +0000" stop="20261122203001 +0000">
-    <title lang="fr">News Breakfast</title>
-    <desc lang="fr">Current news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.</desc>
-    <category lang="fr">Actualités</category>
   </programme>
   <programme channel="newsworld-fra" start="20261122203001 +0000" stop="20261122210001 +0000">
     <title lang="fr">News Breakfast</title>
@@ -11263,132 +10257,6 @@
     <title lang="fr">News</title>
     <desc lang="fr">Current news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.</desc>
     <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20261122144740 +0000" stop="20261122150606 +0000">
-    <title lang="fr">Pingu</title>
-    <sub-title lang="fr">S1:E22 Épisode 22</sub-title>
-    <desc lang="fr">Pingu et le vase cassé | Pingu et l'avion en papier | Pingu cherche à se venger</desc>
-    <category lang="fr">Enfants</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20261122150606 +0000" stop="20261122152432 +0000">
-    <title lang="fr">Pingu</title>
-    <sub-title lang="fr">S1:E23 Épisode 23</sub-title>
-    <desc lang="fr">Pingu et la confusion | Pingu et le jouet | Pingu joue à Superman</desc>
-    <category lang="fr">Enfants</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20261122152432 +0000" stop="20261122154258 +0000">
-    <title lang="fr">Pingu</title>
-    <sub-title lang="fr">S1:E24 Épisode 24</sub-title>
-    <desc lang="fr">Pingu participe à un concours de pêche | Pingu cache une lettre | Pingu n'est pas autorisé à jouer</desc>
-    <category lang="fr">Enfants</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20261122154258 +0000" stop="20261122160124 +0000">
-    <title lang="fr">Pingu</title>
-    <sub-title lang="fr">S1:E25 Épisode 25</sub-title>
-    <desc lang="fr">Pingu tire un gagnant au sort | Pingu et le fantôme | Pingu et la carte postale</desc>
-    <category lang="fr">Enfants</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20261122160124 +0000" stop="20261122161948 +0000">
-    <title lang="fr">Pingu</title>
-    <sub-title lang="fr">S1:E26 Épisode 26</sub-title>
-    <desc lang="fr">Pingu fait une découverte | Pingu vole | Pingu et la balle perdue</desc>
-    <category lang="fr">Enfants</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20261122161948 +0000" stop="20261122163805 +0000">
-    <title lang="fr">Pingu</title>
-    <sub-title lang="fr">S2:E1 Le désavantage de Pingu | Pingu refuse d'aider | Pingu l'alpiniste</sub-title>
-    <desc lang="fr">Pingu est contrarié après avoir perdu plusieurs parties de cache-cache. | Après avoir été égoïste, Pingu se sent exclu quand sa famille étend le linge. | Pingu convainc son père d'aller faire de l'escalade après avoir trouvé une vieille photo.</desc>
-    <category lang="fr">Enfants</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20261122163805 +0000" stop="20261122165622 +0000">
-    <title lang="fr">Pingu</title>
-    <sub-title lang="fr">S2:E2 Pingu et le gros poisson | Pingu montre ce qu'il sait faire | Pingu déneige</sub-title>
-    <desc lang="fr">Pingu part à la pêche et promet d'être de retour pour le dîner. | Pingu et Pinga jouent, mais quand Pingi arrive, Pingu décide qu'il est trop vieux pour les jouets et préfère frimer devant elle. | Pingu élabore un plan pour protéger la voiture de son père de la neige.</desc>
-    <category lang="fr">Enfants</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20261122165622 +0000" stop="20261122171438 +0000">
-    <title lang="fr">Pingu</title>
-    <sub-title lang="fr">S2:E3 Le jour de congé de Pingu | Pingu l'archer | Pingu reçoit un avertissement</sub-title>
-    <desc lang="fr">Pingu a un jour de congé et veut profiter de sa liberté plutôt que d'aider maman. | Pingu fait quelques bêtises après avoir trouvé un arc et une flèche. | Pingu ignore un avertissement sur son cerf-volant près de la maison de son voisin grincheux et doit le récupérer.</desc>
-    <category lang="fr">Enfants</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20261122171438 +0000" stop="20261122173255 +0000">
-    <title lang="fr">Pingu</title>
-    <sub-title lang="fr">S2:E4 Pingu et l'aimant | Pingu reçoit de l'aide | Pingu au paradis</sub-title>
-    <desc lang="fr">Pingu découvre un aimant et décide de l'utiliser pour piéger son ami. | Pingu joue avec son bateau, mais il coule à cause d'une fuite. | Après s'être endormi en jouant avec ses jouets, Pingu fait un rêve très doux.</desc>
-    <category lang="fr">Enfants</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20261122173255 +0000" stop="20261122175112 +0000">
-    <title lang="fr">Pingu</title>
-    <sub-title lang="fr">S2:E5 La blague dangereuse de Pingu | Pingu le pilote | Pingu taquine Pinga</sub-title>
-    <desc lang="fr">Pingu fait une blague dangereuse à son grand-père. | Pingu et Pinga construisent leur avion après en avoir vu un vrai. | Pingu taquine tellement sa sœur avec ses blagues qu'elle est presque en pleurs.</desc>
-    <category lang="fr">Enfants</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20261122175112 +0000" stop="20261122180928 +0000">
-    <title lang="fr">Pingu</title>
-    <sub-title lang="fr">S2:E6 Le vœu de Pingu | Pingu est curieux | Pingu s'organise</sub-title>
-    <desc lang="fr">Pingu voit un kit de magie dans le magasin et le veut vraiment. | Pingu découvre un gros cadeau pour son anniversaire. Il veut l'ouvrir mais on lui dit d'attendre. | Quand papa insiste pour que Pingu range tout à sa place, Pingu s'organise.</desc>
-    <category lang="fr">Enfants</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20261122180928 +0000" stop="20261122182746 +0000">
-    <title lang="fr">Pingu</title>
-    <sub-title lang="fr">S2:E7 Pingu construit une tour | Pingu le roi | Pingu le boulanger</sub-title>
-    <desc lang="fr">Pingu voit dans un livre une tour qui monte jusqu'au ciel et veut en construire une identique. | Pinga découvre un livre sur les royaumes et Pingu pense que ce serait génial d'être roi. | Pingu veut faire son propre gâteau.</desc>
-    <category lang="fr">Enfants</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20261122182746 +0000" stop="20261122184604 +0000">
-    <title lang="fr">Pingu</title>
-    <sub-title lang="fr">S2:E8 Pingu et la poupée | Pingu aide grand-père | La mauvaise journée de Pingu</sub-title>
-    <desc lang="fr">Le bras de l'ours de Pinga se détache quand Pingu joue avec. | Pingu part à pied aider grand-père à cause des retards de la motoneige. | Pingu trébuche sur ses jouets, fait un mauvais trajet jusqu'à l'école et ne sait pas répondre au maître.</desc>
-    <category lang="fr">Enfants</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20261122184604 +0000" stop="20261122190322 +0000">
-    <title lang="fr">Pingu</title>
-    <sub-title lang="fr">S2:E9 Pingu perd le pari | Pingu et sa coupe | La carte de Saint-Valentin de Pingi</sub-title>
-    <desc lang="fr">Pour se montrer, Pingu parie avec Pinga qu'il est meilleur qu'elle pour viser une boîte avec des balles. | Pingu est très mauvais lors de sa journée sportive. En aidant un ami lors de la dernière épreuve, Pingu gagne le premier prix. | Pingu est ravi de recevoir une carte de Saint-Valentin de Pingi.</desc>
-    <category lang="fr">Enfants</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20261122190322 +0000" stop="20261122192000 +0000">
-    <title lang="fr">Pingu</title>
-    <sub-title lang="fr">S2:E10 Pinga somnambule | Pingu fait des bonds | Le lapin perdu de Pinga</sub-title>
-    <desc lang="fr">Pingu doit surveiller Pinga lorsqu'elle marche en dormant hors de l'igloo et traverse les maisons des autres. | Pingu rebondit sur tout dans l'igloo, de son lit aux fauteuils. | Pingu taquine sa sœur et son lapin en peluche préféré tombe par la fenêtre.</desc>
-    <category lang="fr">Enfants</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20261122192000 +0000" stop="20261122193638 +0000">
-    <title lang="fr">Pingu</title>
-    <sub-title lang="fr">S2:E11 Le jour venteux de Pingu | Pingu veut voler | Pingu creuse un trou</sub-title>
-    <desc lang="fr">Pingu et Pinga étendent le linge. Quand une grosse rafale de vent emporte les serviettes, ils se lancent à leur poursuite. | Regarder une mouette voler donne envie à Pingu de voler. | Après que papa a déneigé son chariot, Pingu s'amuse un peu à creuser lui-même.</desc>
-    <category lang="fr">Enfants</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20261122193638 +0000" stop="20261122195316 +0000">
-    <title lang="fr">Pingu</title>
-    <sub-title lang="fr">S2:E12 Pingu finit le travail | Robby le snowboarder | L'aventure lunaire de Pingu</sub-title>
-    <desc lang="fr">Papa essaie de fabriquer une table mais passe son temps à éloigner Pingu de sa boîte à outils. | Pingu fait du snowboard avec Robby et souhaite être aussi doué pour les sauts que son ami. | Grand-père parle de la lune à Pingu, qui veut désespérément s'y rendre.</desc>
-    <category lang="fr">Enfants</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20261122195316 +0000" stop="20261122200954 +0000">
-    <title lang="fr">Pingu</title>
-    <sub-title lang="fr">S2:E13 Pingu et Pinga font du camping | Pinga a le hoquet | Tel père, tel Pingu</sub-title>
-    <desc lang="fr">Pingu et Pinga dorment sous une tente et Pingu essaie de lui faire peur. | Pinga a le hoquet et Pingu essaie de le faire partir en l'effrayant. | Pingu accompagne papa à la pêche et découvre que papa ne sait pas tout.</desc>
-    <category lang="fr">Enfants</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20261122200954 +0000" stop="20261122202632 +0000">
-    <title lang="fr">Pingu</title>
-    <sub-title lang="fr">S2:E14 Les sculptures de glace de Pingu | Le ballon de Pinga | Pingu et le groupe</sub-title>
-    <desc lang="fr">Tout le monde participe au concours de glace, sauf Pingu. | Pingu et papa essaient de gonfler un ballon, mais c'est dur. | Pingu et Pinga rendent maman folle en utilisant tout comme tambour.</desc>
-    <category lang="fr">Enfants</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20261122202632 +0000" stop="20261122204310 +0000">
-    <title lang="fr">Pingu</title>
-    <sub-title lang="fr">S2:E15 Pingu et la machine à tricoter | Les ombres du soir de Pingu | Pingu joue à chat</sub-title>
-    <desc lang="fr">Pingu veut utiliser la machine à tricoter de maman. Quand elle se repose, il en profite pour tricoter à toute vitesse ! | C'est l'heure du coucher, mais Pingu et Pinga jouent encore dehors. | Pingu et Pinga jouent à chat. Pingu croit s'être échappé, mais il se retrouve coincé.</desc>
-    <category lang="fr">Enfants</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20261122204310 +0000" stop="20261122205948 +0000">
-    <title lang="fr">Pingu</title>
-    <sub-title lang="fr">S2:E16 Pingu et les autocollants | Pingu et la sonnette | Le numéro d'équilibre de Pingu</sub-title>
-    <desc lang="fr">Pingu et Pinga trouvent des autocollants dans leur boîte de céréales et commencent à étiqueter des objets. | Pingu sait qu'il a des ennuis quand il casse la sonnette de l'igloo. | Robby est extrêmement doué pour faire tenir un poisson en équilibre sur le bout de son nez.</desc>
-    <category lang="fr">Enfants</category>
   </programme>
   <programme channel="pingu-rakuten-tv" start="20261122205948 +0000" stop="20261122211703 +0000">
     <title lang="fr">Pingu</title>
@@ -12332,37 +11200,6 @@
     <desc lang="fr">Souriez ! | Qu'y a-t-il à l'intérieur ? | La grande poursuite bleue</desc>
     <category lang="fr">Enfants</category>
   </programme>
-  <programme channel="terra-mater-wild-fr" start="20261122143120 +0000" stop="20261122152959 +0000">
-    <title lang="fr">Badlands: Hard Rock - Tough Lives</title>
-    <desc lang="fr">Entre grands froids et chaleurs écrasantes, les Badlands dévoilent leurs strates colorées façonnées par l'eau et le temps. Un territoire sauvage aux paysages aussi hostiles que fascinants.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="terra-mater-wild-fr" start="20261122152959 +0000" stop="20261122163030 +0000">
-    <title lang="fr">Beasts In The City</title>
-    <desc lang="fr">Hirondelles sous les ponts, perroquets en métropole, hérissons dans les jardins : les animaux sauvages s'adaptent à la vie urbaine avec une ingéniosité qui ne cesse de nous surprendre.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="terra-mater-wild-fr" start="20261122163030 +0000" stop="20261122172957 +0000">
-    <title lang="fr">Big Bugs</title>
-    <desc lang="fr">Mante religieuse foudroyante, araignée à trappe embusquée et essaims d'abeilles en 3D : plongée vertigineuse dans l'univers secret et spectaculaire des insectes et des arachnides.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="terra-mater-wild-fr" start="20261122172957 +0000" stop="20261122183036 +0000">
-    <title lang="fr">Billion Dollar Fish</title>
-    <desc lang="fr">Ses oeufs valent de l'or : le grand esturgeon du Danube survit depuis l'ère des dinosaures mais le commerce du caviar le pousse aujourd'hui au bord de l'extinction.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="terra-mater-wild-fr" start="20261122183036 +0000" stop="20261122192918 +0000">
-    <title lang="fr">Bird Brain</title>
-    <desc lang="fr">Les pies réussissent le test du miroir, les corneilles de Nouvelle-Calédonie fabriquent leurs propres outils : la recherche redéfinit l'intelligence des oiseaux, comparable à celle des grands singes.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
-  <programme channel="terra-mater-wild-fr" start="20261122192918 +0000" stop="20261122203109 +0000">
-    <title lang="fr">L'homme qui parle aux lions</title>
-    <sub-title lang="fr">S01 : E01 Practice makes perfect</sub-title>
-    <desc lang="fr">Entre formalités, imprévus et animaux réticents, Kevin Richardson prépare le transfert de 27 lions et 14 hyènes vers leur futur refuge.</desc>
-    <category lang="fr">documentaire</category>
-  </programme>
   <programme channel="terra-mater-wild-fr" start="20261122203109 +0000" stop="20261122213303 +0000">
     <title lang="fr">L'homme qui parle aux lions</title>
     <sub-title lang="fr">S01 : E02 Precious Cargo</sub-title>
@@ -12639,24 +11476,6 @@
     <desc lang="fr">En Chine, des découvertes exceptionnelles de dinosaures à plumes éclairent l’origine des oiseaux et l’apparition du vol.</desc>
     <category lang="fr">documentaire</category>
   </programme>
-  <programme channel="the-reuters-60" start="20261122140001 +0000" stop="20261122160001 +0000">
-    <title lang="fr">Reuters Morning News</title>
-    <sub-title lang="fr">S01 : E01 Reuters Morning News</sub-title>
-    <desc lang="fr">Reuters delivers fast, accurate, unbiased and trusted news around the globe.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="the-reuters-60" start="20261122160001 +0000" stop="20261122180001 +0000">
-    <title lang="fr">Reuters Afternoon News</title>
-    <sub-title lang="fr">S01 : E02 Reuters Afternoon News</sub-title>
-    <desc lang="fr">Reuters delivers fast, accurate, unbiased and trusted news around the globe.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="the-reuters-60" start="20261122180001 +0000" stop="20261122200001 +0000">
-    <title lang="fr">Reuters Afternoon News</title>
-    <sub-title lang="fr">S01 : E02 Reuters Afternoon News</sub-title>
-    <desc lang="fr">Reuters delivers fast, accurate, unbiased and trusted news around the globe.</desc>
-    <category lang="fr">Actualités</category>
-  </programme>
   <programme channel="the-reuters-60" start="20261122200001 +0000" stop="20261122220001 +0000">
     <title lang="fr">Reuters Afternoon News</title>
     <sub-title lang="fr">S01 : E02 Reuters Afternoon News</sub-title>
@@ -12824,42 +11643,6 @@
     <sub-title lang="fr">S01 : E03 Reuters Evening News</sub-title>
     <desc lang="fr">Reuters delivers fast, accurate, unbiased and trusted news around the globe.</desc>
     <category lang="fr">Actualités</category>
-  </programme>
-  <programme channel="weather-spy-new" start="20261122143335 +0000" stop="20261122150335 +0000">
-    <title lang="fr">Extreme Weather Countdown</title>
-    <sub-title lang="fr">S03 : E05 Extreme Weather Countdown | Under the Weather</sub-title>
-    <desc lang="fr">Are you ready to have dust devils, tornadoes, floods, and thunderstorms flashing before your eyes? You'd better be, because you're watching Extreme Weather Countdown, where we waste no time filling your screen with the most intense weather events caught on camera.</desc>
-    <category lang="fr">Télévision lente</category>
-  </programme>
-  <programme channel="weather-spy-new" start="20261122150335 +0000" stop="20261122160305 +0000">
-    <title lang="fr">Hellfire Heroes</title>
-    <sub-title lang="fr">S01 : E07 Hellfire Heroes | What It Takes</sub-title>
-    <desc lang="fr">Trouble during a training session; a rollover traps 4 people and ejects 2 others into a swift-moving river.</desc>
-    <category lang="fr">Télévision lente</category>
-  </programme>
-  <programme channel="weather-spy-new" start="20261122160305 +0000" stop="20261122170405 +0000">
-    <title lang="fr">Hellfire Heroes</title>
-    <sub-title lang="fr">S02 : E05 Hellfire Heroes | Close Calls</sub-title>
-    <desc lang="fr">A red-hot summer vacation, a Russian monster-truck, and a fire that won’t die!</desc>
-    <category lang="fr">Télévision lente</category>
-  </programme>
-  <programme channel="weather-spy-new" start="20261122170405 +0000" stop="20261122180805 +0000">
-    <title lang="fr">The Weather Files</title>
-    <sub-title lang="fr">S01 : E01 The Weather Files | Tornado 1</sub-title>
-    <desc lang="fr">Tornadoes. They twist. They turn. They kill. Husband and wife storm chasers witness a town’s devastation.</desc>
-    <category lang="fr">Télévision lente</category>
-  </programme>
-  <programme channel="weather-spy-new" start="20261122180805 +0000" stop="20261122191205 +0000">
-    <title lang="fr">The Weather Files</title>
-    <sub-title lang="fr">S01 : E02 The Weather Files | Strange Weather</sub-title>
-    <desc lang="fr">Volcanic rain. Sudden windstorms. Twin tornadoes. Strange and rare weather events that actually happen.</desc>
-    <category lang="fr">Télévision lente</category>
-  </programme>
-  <programme channel="weather-spy-new" start="20261122191205 +0000" stop="20261122201605 +0000">
-    <title lang="fr">The Weather Files</title>
-    <sub-title lang="fr">S01 : E03 The Weather Files | Snow and Cold</sub-title>
-    <desc lang="fr">Ice. Cold. Snow. A chilling, and sometimes deadly combination.</desc>
-    <category lang="fr">Télévision lente</category>
   </programme>
   <programme channel="weather-spy-new" start="20261122201605 +0000" stop="20261122212005 +0000">
     <title lang="fr">The Weather Files</title>
